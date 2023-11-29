@@ -7,6 +7,7 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
 1. Introduction
 1. Technologies Used
 1. Features
+1. Wireframe
 1. Testing
 1. Deployment
 1. Credits
@@ -21,7 +22,7 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 - CSS3
 
 ## Wireframe
-![wireframe](/assests/images/)
+![wireframe](/assests/images/Wireframe%20P1.png)
 
 ## Features
 
