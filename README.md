@@ -20,6 +20,9 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 - HTML5
 - CSS3
 
+## Wireframe
+![wireframe](/assests/images/)
+
 ## Features
 
 ## Testing
