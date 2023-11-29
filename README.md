@@ -4,14 +4,21 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
 
 ## Table of Contents
 
-## Technologies Used
-
-- HTML5
-- CSS3
+1. Introduction
+1. Technologies Used
+1. Features
+1. Testing
+1. Deployment
+1. Credits
 
 ## Introduction
 
 Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience for customers who have to physically go to the bar to view available drinks. This project aims to solve this problem by providing an interactive, user-friendly digital drinks menu accessible via QR code.
+
+## Technologies Used
+
+- HTML5
+- CSS3
 
 ## Features
 
