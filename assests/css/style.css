@@ -41,3 +41,12 @@ header a {
 .navbar li {
     float: right;
 }
+
+/* Navbar Toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
