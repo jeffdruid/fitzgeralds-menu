@@ -99,18 +99,23 @@ img:hover {
 }
 
 /* Footer */
-#social-networks ul {
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-    background-color: hsla(0, 0%, 50%, 0.2);
+#footer {
     position: fixed;
     bottom: 0px;
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
+
+}
+
+#social-networks ul {
+    text-align: center;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: hsla(0, 0%, 50%, 0.2);
+
 }
 
 #social-networks i {
