@@ -6,14 +6,21 @@
 }
 
 /* General styles */
+.hidden-heading {
+    display: none;
+}
 
-#logo {
+/* Header */
+header a {
+    text-decoration: none;
+    color: inherit;
     text-align: center;
 }
 
+/* Navbar */
 .navbar ul {
     list-style-type: none;
-    background-color: grey;
+    background-color: hsla(0, 0%, 50%, 0.5);
     padding: 0;
     margin: 0;
     overflow: hidden;
@@ -22,7 +29,7 @@
 .navbar a {
     color: white;
     text-decoration: none;
-    padding: 15px;
+    padding: 1rem;
     display: block;
     text-align: center;
 }
