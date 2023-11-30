@@ -83,9 +83,11 @@ label i {
 }
 
 /* Gallery */
+
 .container {
     padding: 1em;
     column-count: 3;
+    height: 100%;
 }
 
 img {
@@ -98,9 +100,14 @@ img:hover {
     opacity: .9;
 }
 
+main {
+    flex: 1 0 auto;
+}
+
+
 /* Footer */
 #footer {
-    position: fixed;
+
     bottom: 0px;
     left: 0px;
     right: 0px;
