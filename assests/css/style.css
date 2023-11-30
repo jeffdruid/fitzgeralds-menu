@@ -13,9 +13,13 @@
 }
 
 body {
+    position: relative;
     background-color: #111;
     font-family: 'Libre Baskerville', sans-serif;
     min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 /* Header */
@@ -108,7 +112,7 @@ main {
 
 /* Footer */
 #footer {
-
+    position: absolute;
     bottom: 0px;
     left: 0px;
     right: 0px;
