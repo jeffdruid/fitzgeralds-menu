@@ -15,6 +15,7 @@
 body {
     background-color: #111;
     font-family: 'Libre Baskerville', sans-serif;
+    min-height: 100vh;
 }
 
 /* Header */
@@ -104,6 +105,12 @@ img:hover {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: hsla(0, 0%, 50%, 0.2);
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 5px;
 }
 
 #social-networks i {
