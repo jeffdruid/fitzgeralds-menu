@@ -6,3 +6,14 @@
 }
 
 /* General styles */
+#logo {
+    text-align: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+}
+
+.navbar a {
+    text-decoration: none;
+}
