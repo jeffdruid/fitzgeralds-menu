@@ -97,6 +97,25 @@ img:hover {
     opacity: .9;
 }
 
+/* Footer */
+#social-networks ul {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: white;
+}
+
+#social-networks i:hover {
+    color: rgba(255, 255, 255, 0.8);
+}
+
 /* Tablets or larger (768px and up) */
 @media screen and (min-width: 768px) {
     .navbar li {
