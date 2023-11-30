@@ -10,10 +10,14 @@
     display: none;
 }
 
+body {
+    background-color: #111;
+}
+
 /* Header */
 header a {
     text-decoration: none;
-    color: inherit;
+    color: white;
     text-align: center;
 }
 
@@ -50,3 +54,22 @@ header a {
 #nav-toggle {
     display: none;
 }
+
+.nav-toggle-label {
+    font-size: 1.5rem;
+}
+
+/* Gallery */
+.container {
+    padding: 1em;
+    column-count: 3;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 1em;
+    opacity: 1;
+}
+
+/* Tablets or larger (768px and up) */
+@media screen and (min-width: 768px) {}
