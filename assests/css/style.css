@@ -44,9 +44,13 @@ nav {
 
 label i {
     color: white;
-    display: flex;
-    float: right;
-    padding-right: .5rem;
+    display: block;
+    position: absolute;
+    top: 18px;
+    right: 10px;
+    /* font-size: 24px; */
+    cursor: pointer;
+    z-index: 999;
 }
 
 .navbar ul {
