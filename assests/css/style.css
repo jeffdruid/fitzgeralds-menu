@@ -89,6 +89,10 @@ img {
     opacity: 1;
 }
 
+img:hover {
+    opacity: .9;
+}
+
 /* Tablets or larger (768px and up) */
 @media screen and (min-width: 768px) {
     .navbar li {
