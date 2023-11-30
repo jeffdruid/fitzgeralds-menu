@@ -15,9 +15,6 @@ body {
 }
 
 /* Header */
-/* header {
-    display: flex;
-} */
 
 header a {
     text-decoration: none;
@@ -27,6 +24,10 @@ header a {
     padding: 1rem;
 }
 
+.active {
+    border-bottom: 1px solid #a83838;
+}
+
 /* Navbar */
 nav {
     display: none;
@@ -34,6 +35,9 @@ nav {
 
 label i {
     color: white;
+    display: flex;
+    float: right;
+    padding-right: .5rem;
 }
 
 .navbar ul {
