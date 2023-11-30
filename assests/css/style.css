@@ -110,7 +110,7 @@ img:hover {
     bottom: 0px;
     left: 0px;
     right: 0px;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
 
 #social-networks i {
@@ -135,6 +135,10 @@ img:hover {
 
     nav {
         display: block;
+    }
+
+    .container {
+        column-count: 6;
     }
 
 }
