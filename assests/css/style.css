@@ -101,11 +101,12 @@ label i {
     column-count: 3;
     height: 100%;
     width: 100%;
+    column-gap: .75em;
 }
 
 img {
     width: 100%;
-    margin-bottom: 1em;
+    margin-bottom: .75em;
     opacity: 1;
 }
 
