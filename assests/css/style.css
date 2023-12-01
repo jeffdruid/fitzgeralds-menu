@@ -113,6 +113,7 @@ label i {
     height: 100%;
     width: 100%;
     column-gap: .75em;
+    margin-top: 1.5rem;
 }
 
 img {
