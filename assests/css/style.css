@@ -49,6 +49,7 @@ header h1 {
 
 .active {
     border-bottom: 1px solid #a83838;
+    background-color: hsla(0, 0%, 50%, 0.02)
 }
 
 /* Navbar Section */
