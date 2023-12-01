@@ -218,8 +218,8 @@ main {
     #about p {
         padding: .75rem;
         line-height: 1.5rem;
-        padding-left: 2rem;
-        padding-right: 2rem;
+        padding-left: 3.5rem;
+        padding-right: 3.5rem;
     }
 
     #about h2 {
