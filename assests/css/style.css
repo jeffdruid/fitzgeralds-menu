@@ -131,7 +131,7 @@ main {
 /* About section */
 #about {
     background-color: #fff3f3;
-    padding: 2rem;
+    padding: .75rem;
     margin-top: 2rem;
 }
 
@@ -144,7 +144,7 @@ main {
 
 #about p {
     text-align: justify;
-    padding: .5rem;
+    padding: .9rem;
     line-height: 1.3rem;
 }
 
