@@ -143,6 +143,7 @@ main {
 #about p {
     text-align: justify;
     padding: .5rem;
+    line-height: 1.3rem;
 }
 
 
@@ -211,6 +212,16 @@ main {
         margin-top: 2rem;
     }
 
+    /* About Section */
+    #about p {
+        padding: .75rem;
+        line-height: 1.5rem;
+    }
+
+    #about h2 {
+        margin: 1.5rem;
+    }
+
 }
 
 @media screen and (min-width: 1024px) {
@@ -224,4 +235,19 @@ main {
     .container {
         column-count: 6;
     }
+
+    /* About Section */
+    #about p {
+        padding-left: 5rem;
+        padding-right: 5rem;
+        line-height: 2rem;
+        font-size: 110%;
+    }
+
+    #about h2 {
+        margin: 2rem;
+        padding-bottom: 1rem;
+    }
 }
+
+@media screen and (min-width: 1440px) {}
