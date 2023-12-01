@@ -31,6 +31,7 @@ header h1 {
     text-transform: uppercase;
     padding: 1rem;
     letter-spacing: .10rem;
+    margin-top: 1rem;
 }
 
 .active {
