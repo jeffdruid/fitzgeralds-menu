@@ -76,6 +76,10 @@ label i {
     float: center;
 }
 
+#navbar>header>label>i:hover {
+    color: #a83838;
+}
+
 /* Navbar Toggle */
 #nav-toggle:checked~nav {
     display: block;
