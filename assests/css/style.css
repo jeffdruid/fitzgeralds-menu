@@ -96,6 +96,7 @@ label i {
 /* Gallery */
 
 .container {
+
     padding: 1em;
     column-count: 3;
     height: 100%;
@@ -172,6 +173,7 @@ main {
 
     .container {
         column-count: 6;
+        margin-top: 2rem;
     }
 
 }
