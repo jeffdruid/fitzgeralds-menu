@@ -250,4 +250,10 @@ main {
     }
 }
 
-@media screen and (min-width: 1440px) {}
+@media screen and (min-width: 1440px) {
+    #about p {
+        padding-left: 15rem;
+        padding-right: 15rem;
+        font-size: 130%;
+    }
+}
