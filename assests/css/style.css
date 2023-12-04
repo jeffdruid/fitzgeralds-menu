@@ -198,6 +198,13 @@ main {
     line-height: 1.75rem;
 }
 
+/* Form Section */
+#contact iframe {
+    position: absolute;
+    bottom: 3.25rem;
+    width: 100%;
+    height: 20%;
+}
 
 /* Footer */
 #footer {
