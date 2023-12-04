@@ -199,6 +199,27 @@ main {
 }
 
 /* Form Section */
+#contact {
+    margin: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    background-color: #a83838;
+}
+
+#contact-form {
+    background-color: hsl(0, 0%, 12%);
+    padding: 2rem;
+    align-self: center;
+    width: 50vw;
+}
+
+#contact h2,
+label {
+    color: white;
+}
+
 #contact iframe {
     position: absolute;
     bottom: 3.25rem;
