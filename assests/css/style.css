@@ -221,16 +221,21 @@ main {
 }
 
 .inputbox {
-    background-color: ;
     margin: 1rem;
 }
 
-.inputbox input {
+.inputbox input,
+textarea {
     width: 100%;
     height: 1.75rem;
-
+    border: none;
+    outline: none;
+    border-radius: 1rem;
 }
 
+textarea {
+    height: 100%;
+}
 
 #contact iframe {
     position: absolute;
