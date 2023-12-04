@@ -231,10 +231,18 @@ textarea {
     border: none;
     outline: none;
     border-radius: 1rem;
+    font-size: 1rem;
+    color: #111;
+    padding: 1rem;
 }
 
 textarea {
     height: 100%;
+}
+
+.inputbox input::placeholder,
+textarea::placeholder {
+    color: hsla(0, 0%, 12%, 0.5);
 }
 
 #contact iframe {
