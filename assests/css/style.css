@@ -213,12 +213,24 @@ main {
     padding: 2rem;
     align-self: center;
     width: 50vw;
+    text-align: center;
 }
 
-#contact h2,
-label {
+#contact label {
     color: white;
 }
+
+.inputbox {
+    background-color: ;
+    margin: 1rem;
+}
+
+.inputbox input {
+    width: 100%;
+    height: 1.75rem;
+
+}
+
 
 #contact iframe {
     position: absolute;
