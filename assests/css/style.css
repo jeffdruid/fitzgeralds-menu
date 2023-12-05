@@ -235,9 +235,8 @@ main {
     border-color: #a83838;
 }
 
-
 textarea {
-    height: 100%;
+    resize: none;
 }
 
 .inputbox input::placeholder,
