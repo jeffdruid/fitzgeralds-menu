@@ -235,7 +235,7 @@ main {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
-    transition: border-color 0.3 ease-out;
+    transition: border-color 0.3s ease-out;
 }
 
 .inputbox input:focus,
@@ -260,7 +260,7 @@ textarea::placeholder {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3 ease-out;
+    transition: background-color 0.3s ease-out;
 }
 
 #contact .btn:focus {
