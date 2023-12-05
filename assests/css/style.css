@@ -199,10 +199,17 @@ main {
 }
 
 /* Contact Section */
+#contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
 #contact-form {
     padding: 2rem;
-    align-self: center;
     width: 80%;
+    max-width: 500px;
     text-align: center;
     background: #fff;
     border-radius: 10px;
