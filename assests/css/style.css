@@ -214,6 +214,7 @@ main {
     align-self: center;
     width: 75vw;
     text-align: center;
+    z-index: 999;
 }
 
 #contact label {
@@ -235,7 +236,7 @@ button {
     font-size: 1rem;
     color: #111;
     padding: 1rem;
-    margin-top: .2rem;
+    margin-top: .5rem;
 }
 
 textarea {
