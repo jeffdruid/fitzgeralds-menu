@@ -203,6 +203,7 @@ main {
     height: 100%;
     width: 100%;
     background-color: hsla(0, 0%, 12%, 0.9);
+    opacity: 0;
 }
 
 .overlay-text {
@@ -226,6 +227,10 @@ main {
     padding: .25rem;
     margin-top: 1rem;
     color: white;
+}
+
+.card:hover .card-overlay {
+    opacity: 1;
 }
 
 /* About section */
