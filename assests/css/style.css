@@ -222,6 +222,7 @@ main {
     text-transform: uppercase;
     font-weight: bold;
     margin-bottom: .25rem;
+    font-size: 1rem;
 }
 
 .price {
@@ -229,6 +230,7 @@ main {
     padding: .25rem;
     margin-top: 1rem;
     color: white;
+    font-size: 1rem;
 }
 
 .card:hover .card-overlay,
