@@ -231,7 +231,8 @@ main {
     color: white;
 }
 
-.card:hover .card-overlay {
+.card:hover .card-overlay,
+.card:active .card-overlay {
     opacity: 1;
 }
 
