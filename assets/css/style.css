@@ -139,10 +139,6 @@ label i {
     background-color: hsla(0, 0%, 50%, 0.1);
 }
 
-.navbar li {
-    float: center;
-}
-
 /* Navbar Toggle */
 #nav-toggle:checked~nav {
     display: block;
