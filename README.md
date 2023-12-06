@@ -31,8 +31,7 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 ### Validator Testing
 #### HTML
 1. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html
-
-
+2. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html
 
 ## Deployment
 
