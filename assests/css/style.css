@@ -202,6 +202,11 @@ main {
     right: 0;
     height: 100%;
     width: 100%;
+    background-color: hsla(0, 0%, 12%, 0.9);
+}
+
+.overlay-text {
+    color: white;
 }
 
 /* About section */
