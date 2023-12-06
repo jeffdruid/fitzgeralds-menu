@@ -28,6 +28,11 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 ![Feat -](assets/media/feat-about-active.png)
 ![Feat](assets/media/feat-about-page.PNG)
 ## Testing
+### Validator Testing
+#### HTML
+1. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html
+
+
 
 ## Deployment
 
@@ -42,6 +47,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_trans
 https://www.w3schools.com/css/css3_transitions.asp - Transitions  
 https://css-tricks.com/full-page-background-video-styles - Background Video  
 https://www.youtube.com/watch?v=-isQPqqnIBo - CSS Tips & Tricks: Creating a Masonry Grid Layout with Pure CSS, No JavaScript Required
+https://formspree.io/ - form submission
 
 ### Images
 https://images.pexels.com/photos/1478386/pexels-photo-1478386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 - Thiago Miranda
