@@ -411,6 +411,10 @@ textarea::placeholder {
         margin: 1.5rem;
     }
 
+    /* Contact Section */
+    #contact {
+        margin: -2rem .5rem 5rem .5rem;
+    }
 }
 
 @media screen and (min-width: 1024px) {
