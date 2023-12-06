@@ -413,7 +413,7 @@ textarea::placeholder {
 
     /* Contact Section */
     #contact {
-        margin: -2rem .5rem 5rem .5rem;
+        margin-top: -2rem;
     }
 }
 
