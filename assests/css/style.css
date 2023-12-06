@@ -427,6 +427,10 @@ textarea::placeholder {
         column-count: 6;
     }
 
+    .card:hover .card-overlay {
+        opacity: 1;
+    }
+
     /* About Section */
     #about p {
         padding-left: 5rem;
