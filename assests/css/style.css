@@ -105,9 +105,8 @@ header h1 {
 
 /* Navbar Section */
 nav {
-    /* display: none; */
+    display: none;
     opacity: 0;
-    display: block;
     transition: opacity .3s ease-in-out;
 }
 
