@@ -265,11 +265,16 @@ main {
     justify-content: center;
     min-height: 100vh;
     margin: 5% .5rem 7rem .5rem;
+    width: 100%;
+}
+
+form {
+    width: 100%;
 }
 
 #contact-form {
-    padding: 2rem;
-    width: 80%;
+    padding: 1rem;
+    width: 100%;
     max-width: 500px;
     text-align: center;
     background: #ffffff;
@@ -291,7 +296,7 @@ main {
 
 .inputbox input,
 .inputbox textarea {
-    width: calc(100%);
+    width: calc(100% + 1rem);
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
@@ -415,6 +420,10 @@ textarea::placeholder {
     #contact {
         margin-top: -10rem;
     }
+
+    #contact-form {
+        max-width: 600px;
+    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -457,7 +466,7 @@ textarea::placeholder {
     }
 
     #contact-form {
-        max-width: 600px;
+        max-width: 700px;
     }
 }
 
