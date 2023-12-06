@@ -264,7 +264,7 @@ main {
     justify-content: center;
     min-height: 100vh;
     margin: 5% .5rem 7rem .5rem;
-    width: 100%;
+    max-width: 100%;
 }
 
 form {
@@ -273,7 +273,7 @@ form {
 
 #contact-form {
     padding: 1rem;
-    width: 100%;
+    width: auto;
     max-width: 500px;
     text-align: center;
     background: #ffffff;
