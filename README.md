@@ -27,11 +27,29 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 ## Features
 ![Feat -](assets/media/feat-about-active.png)
 ![Feat](assets/media/feat-about-page.PNG)
+![Alt text](assets/media/feat-about-active.png)
+![Alt text](assets/media/feat-about-page.PNG)
+![Alt text](assets/media/feat-contact-active.PNG)
+![Alt text](assets/media/feat-footer.PNG) 
+![Alt text](assets/media/feat-form-email-required.PNG) 
+![Alt text](assets/media/feat-form-message-required.PNG) 
+![Alt text](assets/media/feat-form-name-required.PNG) 
+![Alt text](assets/media/feat-form.PNG) 
+![Alt text](assets/media/feat-gallery.PNG) 
+![Alt text](assets/media/feat-google-maps.PNG) 
+![Alt text](assets/media/feat-menu-active.png) 
+![Alt text](assets/media/feat-menu-hero.PNG) 
+![Alt text](assets/media/feat-nav-toggle.PNG) 
+![Alt text](assets/media/feat-navbar-mobile.PNG) 
+![Alt text](assets/media/feat-navbar.PNG) 
+![Alt text](assets/media/feat-overlay.PNG)
+
 ## Testing
 ### Validator Testing
 #### HTML
 1. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html
 2. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html
+3. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fcontact.html
 
 ## Deployment
 
