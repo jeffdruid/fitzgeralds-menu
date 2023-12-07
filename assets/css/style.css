@@ -104,9 +104,11 @@ header h1 {
 }
 
 /* Navbar Section */
-#navbar>header>nav {
-    display: none;
+nav {
+    display: block;
+    /* display: none; */
     opacity: 0;
+    transition: opacity .5s ease-in-out;
 }
 
 label i {
