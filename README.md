@@ -1,8 +1,10 @@
 # Fitzgerald Bar Drinks Menu
 
-This project aims to create a digital menu for Fitzgerald's Bar, being accessible via a QR code.![Alt text](assets/media/main-hero.PNG)
+This project aims to create a digital menu for Fitzgerald's Bar, being accessible via a QR code.
 
-![Alt text](assets/media/qr-code.png)
+![Alt text](assets/media/main-hero.PNG)
+
+<img src="assets/media/qr-code.png" alt="Description" width="150" height="150">
 
 ## Table of Contents
 
@@ -27,25 +29,36 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 ![wireframe](assets/media/Wireframe%20P1.png)
 
 ## Features
-![Feat -](assets/media/feat-about-active.png)![Alt text](assets/media/feat-menu-page.png)
-![Alt text](assets/media/feat-contact-page.png)
-![Feat](assets/media/feat-about-page.PNG)
-![Alt text](assets/media/feat-about-active.png)
-![Alt text](assets/media/feat-about-page.PNG)
-![Alt text](assets/media/feat-contact-active.PNG)
-![Alt text](assets/media/feat-footer.PNG) 
-![Alt text](assets/media/feat-form-email-required.PNG) 
-![Alt text](assets/media/feat-form-message-required.PNG) 
-![Alt text](assets/media/feat-form-name-required.PNG) 
-![Alt text](assets/media/feat-form.PNG) 
-![Alt text](assets/media/feat-gallery.PNG) 
-![Alt text](assets/media/feat-google-maps.PNG) 
-![Alt text](assets/media/feat-menu-active.png) 
+
+### Index
 ![Alt text](assets/media/feat-menu-hero.PNG) 
+Clicking on the "MENU" heading navigates the user to the meu.html page.
+Background video starts playing once the page loads, it is set to autoplay, mute and loop.
+
+### Menu
+![Alt text](assets/media/feat-menu-page.png)
+![Alt text](assets/media/feat-menu-active.png)
+![Alt text](assets/media/feat-gallery.PNG) 
+![Alt text](assets/media/feat-overlay.PNG)
+![Alt text](assets/media/feat-footer.PNG)
+
+### Navbar
 ![Alt text](assets/media/feat-nav-toggle.PNG) 
 ![Alt text](assets/media/feat-navbar-mobile.PNG) 
 ![Alt text](assets/media/feat-navbar.PNG) 
-![Alt text](assets/media/feat-overlay.PNG)
+
+### About
+![Alt text](assets/media/feat-about-page.PNG)
+![Alt text](assets/media/feat-about-active.png)
+
+### Contact
+![Alt text](assets/media/feat-contact-page.png)
+![Alt text](assets/media/feat-contact-active.PNG)
+![Alt text](assets/media/feat-form.PNG) 
+![Alt text](assets/media/feat-form-name-required.PNG) 
+![Alt text](assets/media/feat-form-email-required.PNG) 
+![Alt text](assets/media/feat-form-message-required.PNG) 
+![Alt text](assets/media/feat-google-maps.PNG) 
 
 ## Testing
 ### Validator Testing
