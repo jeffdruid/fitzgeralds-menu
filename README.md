@@ -1,6 +1,8 @@
 # Fitzgerald Bar Drinks Menu
 
-This project aims to create a digital menu for Fitzgerald's Bar, being accessible via a QR code.
+This project aims to create a digital menu for Fitzgerald's Bar, being accessible via a QR code.![Alt text](assets/media/main-hero.PNG)
+
+![Alt text](assets/media/qr-code.png)
 
 ## Table of Contents
 
@@ -25,7 +27,8 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 ![wireframe](assets/media/Wireframe%20P1.png)
 
 ## Features
-![Feat -](assets/media/feat-about-active.png)
+![Feat -](assets/media/feat-about-active.png)![Alt text](assets/media/feat-menu-page.png)
+![Alt text](assets/media/feat-contact-page.png)
 ![Feat](assets/media/feat-about-page.PNG)
 ![Alt text](assets/media/feat-about-active.png)
 ![Alt text](assets/media/feat-about-page.PNG)
@@ -47,15 +50,17 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 ## Testing
 ### Validator Testing
 #### HTML
-1. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html
-2. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html
-3. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fcontact.html
-4. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html
+1. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html![Alt text](assets/media/test-index.png)
+2. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html![Alt text](assets/media/test-about.png)
+3. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fcontact.html![Alt text](assets/media/test-contact.png)
+4. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html![Alt text](assets/media/test-menu.png)
 
 #### CSS
 1. https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+![Alt text](assets/media/test-css.png)
 
-
+#### Responsiveness
+![Alt text](assets/media/resp-about.PNG) ![Alt text](assets/media/resp-contact.PNG) ![Alt text](assets/media/resp-menu-page.PNG) ![Alt text](assets/media/resp-menu.PNG)
 ## Deployment
 
 ## Credits
