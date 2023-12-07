@@ -393,6 +393,7 @@ textarea::placeholder {
     nav {
         display: block;
         opacity: 1;
+        height: 100%;
     }
 
     /* Gallery Section */
