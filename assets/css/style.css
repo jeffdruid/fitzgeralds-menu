@@ -107,8 +107,9 @@ header h1 {
 nav {
     display: block;
     /* display: none; */
+    height: 0;
     opacity: 0;
-    transition: opacity .5s ease-in-out;
+    transition: all .5s ease-in-out;
 }
 
 label i {
@@ -122,7 +123,7 @@ label i {
 }
 
 .navbar ul {
-    display: block;
+    /* display: block; */
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -144,6 +145,7 @@ label i {
 /* Navbar Toggle */
 #nav-toggle:checked~nav {
     display: block;
+    height: 100%;
     opacity: 1;
 }
 
