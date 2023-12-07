@@ -31,49 +31,102 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 ## Features
 
 ### Index
+
 ![Alt text](assets/media/feat-menu-hero.PNG) 
 Clicking on the "MENU" heading navigates the user to the meu.html page.
 Background video starts playing once the page loads, it is set to autoplay, mute and loop.
 
 ### Menu
+
 ![Alt text](assets/media/feat-menu-page.png)
-![Alt text](assets/media/feat-menu-active.png)
+
+Display various drinks available at Fitzgerlads bar.
+
 ![Alt text](assets/media/feat-gallery.PNG) 
+
+Each card have an image of the drinks with name, alcohol percentage and price.
+
 ![Alt text](assets/media/feat-overlay.PNG)
+
+Cards have overlays providing additional details upon hover/clicked (mobile)
+
 ![Alt text](assets/media/feat-footer.PNG)
 
+Contains links to social media platforms
+
 ### Navbar
-![Alt text](assets/media/feat-nav-toggle.PNG) 
+
 ![Alt text](assets/media/feat-navbar-mobile.PNG) 
-![Alt text](assets/media/feat-navbar.PNG) 
+
+Provides site's title and navigation links for the menu, about and contact pages
+
+
+![Alt text](assets/media/feat-menu-active.png)
+
+Menu active, showing the current page the user is on.
+
+![Alt text](assets/media/feat-nav-toggle.PNG)
+
+Menu icon, displayed on mobile devices.
 
 ### About
-![Alt text](assets/media/feat-about-page.PNG)
 ![Alt text](assets/media/feat-about-active.png)
 
+About active, showing the current page the user is on.
+
+![Alt text](assets/media/feat-about-page.PNG)
+
+Contains information about the bar.
+
+
 ### Contact
-![Alt text](assets/media/feat-contact-page.png)
 ![Alt text](assets/media/feat-contact-active.PNG)
-![Alt text](assets/media/feat-form.PNG) 
+
+Contact active, showing the current page the user is on.
+
+![Alt text](assets/media/feat-contact-page.png)
+
+Contains a contact form for users to send messages.
+
+![Alt text](assets/media/feat-form.PNG)
+
+Contains a form where users are able to enter their name, email and message, allowing them to contact the bar.
+
 ![Alt text](assets/media/feat-form-name-required.PNG) 
+
+Prevents user to submit a form without name. 
+
 ![Alt text](assets/media/feat-form-email-required.PNG) 
-![Alt text](assets/media/feat-form-message-required.PNG) 
-![Alt text](assets/media/feat-google-maps.PNG) 
+
+Prevents user to submit a form without email.
+
+![Alt text](assets/media/feat-form-message-required.PNG)
+
+Prevents user to submit a form without a message.
+
+![Alt text](assets/media/feat-google-maps.PNG)
+
+Displays location of the bar using embedded map.
 
 ## Testing
+
 ### Validator Testing
+
 #### HTML
-1. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html![Alt text](assets/media/test-index.png)
-2. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html![Alt text](assets/media/test-about.png)
-3. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fcontact.html![Alt text](assets/media/test-contact.png)
-4. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html![Alt text](assets/media/test-menu.png)
+- https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html![Alt text](assets/media/test-index.png)
+- https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html![Alt text](assets/media/test-about.png)
+- https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fcontact.html![Alt text](assets/media/test-contact.png)
+- https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html![Alt text](assets/media/test-menu.png)
 
 #### CSS
-1. https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+- https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
 ![Alt text](assets/media/test-css.png)
 
 #### Responsiveness
-![Alt text](assets/media/resp-about.PNG) ![Alt text](assets/media/resp-contact.PNG) ![Alt text](assets/media/resp-menu-page.PNG) ![Alt text](assets/media/resp-menu.PNG)
+![Alt text](assets/media/resp-menu.PNG)
+![Alt text](assets/media/resp-menu-page.PNG) 
+![Alt text](assets/media/resp-about.PNG) 
+![Alt text](assets/media/resp-contact.PNG) 
 ## Deployment
 
 ## Credits
