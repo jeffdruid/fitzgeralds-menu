@@ -32,7 +32,8 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 
 ### Index
 
-![Alt text](assets/media/feat-menu-hero.PNG) 
+![Alt text](assets/media/feat-menu-hero.PNG)
+
 Clicking on the "MENU" heading navigates the user to the meu.html page.
 Background video starts playing once the page loads, it is set to autoplay, mute and loop.
 
@@ -112,17 +113,27 @@ Displays location of the bar using embedded map.
 
 ### Validator Testing
 
-#### HTML
-- https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html![Alt text](assets/media/test-index.png)
-- https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html![Alt text](assets/media/test-about.png)
-- https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fcontact.html![Alt text](assets/media/test-contact.png)
-- https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html![Alt text](assets/media/test-menu.png)
+- HTML
+    - https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html![Alt text](assets/media/test-index.png)
+    - https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html![Alt text](assets/media/test-about.png)
+    - https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fcontact.html![Alt text](assets/media/test-contact.png)
+    - https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html![Alt text](assets/media/test-menu.png)
 
-#### CSS
-- https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
-![Alt text](assets/media/test-css.png)
+- CSS
+    - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+    ![Alt text](assets/media/test-css.png)
+
+- Accessibility
+
+Lighthouse results from Google devtools
+
+![Alt text](assets/media/perf-menu.png)
+![Alt text](assets/media/perf-gallery.png)
+![Alt text](assets/media/perf-about.png)
+![Alt text](assets/media/perf-contact.png)
 
 #### Responsiveness
+
 ![Alt text](assets/media/resp-menu.PNG)
 ![Alt text](assets/media/resp-menu-page.PNG) 
 ![Alt text](assets/media/resp-about.PNG) 
