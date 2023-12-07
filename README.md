@@ -53,10 +53,8 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 4. https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html
 
 #### CSS
-1.
-2.
-3.
-4.
+1. https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+
 
 ## Deployment
 
