@@ -258,8 +258,8 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
-    margin: 5% .5rem 7rem .5rem;
+    min-height: 100%;
+    margin: 5rem .5rem 7rem .5rem;
     max-width: 100%;
 }
 
@@ -269,7 +269,7 @@ form {
 
 #contact-form {
     padding: 1rem;
-    width: auto;
+    width: 100%;
     max-width: 500px;
     text-align: center;
     background: #ffffff;
