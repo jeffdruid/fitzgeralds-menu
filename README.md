@@ -158,6 +158,8 @@ Viewport - Desktop: 1600x992px / Laptop: 1280x802px / Tablet: 768x1024px / Mobil
 ![Alt text](assets/media/resp-about.PNG) 
 ![Alt text](assets/media/resp-contact.PNG) 
 
+### Manual Testing
+
 ## Deployment
 
 ### Cloning & Forking
