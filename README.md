@@ -25,10 +25,16 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
     - [Responsiveness](#responsiveness)
     - [Manual Testing](#manual-testing)
         - [Desktop](#desktop)
-        - [Mobile & Tablet](#mobile-and-tablet)
-
+        - [Mobile & Tablet](#mobile--tablet)
 1. [Deployment](#Deployment)
+    - [Cloning & Forking](#cloning--forking)
+    - [Local Deployment](#local-deployment)
+    - [Remote Deployment](#remote-deployment)
 1. [Credits](#credits)
+    - [Source Code](#source-code)
+    - [Icons](#icons)
+    - [Images](#images)
+    - [Useful links](#useful-links)
 
 ## Introduction
 
@@ -186,7 +192,7 @@ The manual testing conducted on the page includes the following aspects:
 
 - ### Desktop
 
-- ### Mobile and Tablet
+- ### Mobile & Tablet
 
 ## Deployment
 
