@@ -156,6 +156,32 @@ Displays location of the bar using embedded map.
 
 ## Deployment
 
+### Cloning & Forking
+#### Forking a Repository
+1. Visit [Fitzgerald's Menu](https://github.com/jeffdruid/fitzgeralds-menu) On GitHub.com 
+2. Click on the "Fork" button located in the top-right corner of the page.
+3. Provide a description for your fork.
+4. Select "Create fork".
+
+#### Cloning a Repository
+1. Navigate to the repository on Github and click the "Code" button located above the list of files.
+2. Copy the repository's URL.
+3. Open Terminal and change the directory to where you want the cloned directory.
+4. Enter "git clone" then paste the URL.
+
+### Local Deployment
+
+### Remote Deployment
+To deploy the site on GitHub Pages after forking or cloning:
+
+1. Go to your repository on GitHub.
+2. Access the settings tab.
+3. Click on the "Pages'tab in the left sidebar.
+4. Under the "Build and Deployment" section, select "main" from the source drop-down list.
+5. The page will display the link to the deployed website.
+
+You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github.io/fitzgeralds-menu/index.html)
+
 ## Credits
 
 ### Source code 
