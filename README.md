@@ -45,14 +45,14 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 
 ## Features
 
-### Index
+- ### Index
 
 ![Menu Hero](assets/media/feat-menu-hero.PNG)
 
 Clicking on the "MENU" heading navigates the user to the meu.html page.
 Background video starts playing once the page loads, it is set to autoplay, mute and loop.
 
-### Menu
+- ### Menu
 
 ![Menu page](assets/media/feat-menu-page.png)
 
@@ -70,7 +70,7 @@ Cards have overlays providing additional details upon hover/clicked (mobile)
 
 Contains links to social media platforms
 
-### Navbar
+- ### Navbar
 
 ![Navbar on Mobile](assets/media/feat-navbar-mobile.PNG) 
 
@@ -85,7 +85,7 @@ Menu active, showing the current page the user is on.
 
 Menu icon, displayed on mobile devices.
 
-### About
+- ### About
 ![About Active](assets/media/feat-about-active.png)
 
 About active, showing the current page the user is on.
@@ -95,7 +95,7 @@ About active, showing the current page the user is on.
 Contains information about the bar.
 
 
-### Contact
+- ### Contact
 ![Contact Active](assets/media/feat-contact-active.PNG)
 
 Contact active, showing the current page the user is on.
@@ -149,6 +149,10 @@ Displays location of the bar using embedded map.
 
 #### Responsiveness
 
+Screenshots of the various device breakpoints for responsive design.
+
+Viewport - Desktop: 1600x992px / Laptop: 1280x802px / Tablet: 768x1024px / Mobile: 320x480px.
+
 ![Alt text](assets/media/resp-menu.PNG)
 ![Alt text](assets/media/resp-menu-page.PNG) 
 ![Alt text](assets/media/resp-about.PNG) 
@@ -158,7 +162,7 @@ Displays location of the bar using embedded map.
 
 ### Cloning & Forking
 #### Forking a Repository
-1. Visit [Fitzgerald's Menu](https://github.com/jeffdruid/fitzgeralds-menu) On GitHub.com 
+1. Visit [Fitzgerald's Menu](https://github.com/jeffdruid/fitzgeralds-menu) 
 2. Click on the "Fork" button located in the top-right corner of the page.
 3. Provide a description for your fork.
 4. Select "Create fork".
@@ -217,5 +221,5 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 
 ### Useful Links
 
-- [Menu design ideas: 10 mouth-watering menu fonts](https://blog.flipsnack.com/menu-design-ideas-10-menu-fonts/)
+- [Flipsnack - Menu design ideas: 10 mouth-watering menu fonts](https://blog.flipsnack.com/menu-design-ideas-10-menu-fonts/)
 - [NicePage - Black/White Theme](https://nicepage.com/s/79786/black-and-white-colors-of-art-css-template)
