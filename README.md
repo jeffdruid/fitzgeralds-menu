@@ -188,7 +188,6 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 
 - [Stack Overflow - Changing hover to touch for mobile devices](https://stackoverflow.com/questions/22559756/changing-hover-to-touch-click-for-mobile-devices)
 - [W3Schools - Pseudo classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
-- [NicePage - Black/White Theme](https://nicepage.com/s/79786/black-and-white-colors-of-art-css-template)
 - [CodePen - Card Overlay](https://codepen.io/sstromick/pen/qBOeypG)
 - [Love Running - Navigation Bar](https://github.com/Code-Institute-Solutions/love-running-v3)
 - [MDN - Using CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions)
@@ -215,3 +214,8 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 ### Icons
 
 - [FontAwesome](https://fontawesome.com/)
+
+### Useful Links
+
+- [Menu design ideas: 10 mouth-watering menu fonts](https://blog.flipsnack.com/menu-design-ideas-10-menu-fonts/)
+- [NicePage - Black/White Theme](https://nicepage.com/s/79786/black-and-white-colors-of-art-css-template)
