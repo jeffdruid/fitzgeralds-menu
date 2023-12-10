@@ -191,6 +191,36 @@ The manual testing conducted on the page includes the following aspects:
  The manual testing confirms that the page operates smoothly across multiple browsers, adapts well to different devices, ensures accurate link navigation, and maintains clear readability for users interacting with the content.
 
 - ### Desktop
+| First Header  | Second Header |Third Header |
+| ------------- | ------------- |------------- |
+![Alt text](assets/media/browser-safari-tablet-menu.png) ![Alt text](assets/media/browser-safari-tablet-index.png) ![Alt text](assets/media/browser-safari-tablet-contact.png) ![Alt text](assets/media/browser-safari-tablet-about.png)
+
+
+![Alt text](assets/media/browser-safari-mobile-menu.png) ![Alt text](assets/media/browser-safari-mobile-index.png) ![Alt text](assets/media/browser-safari-mobile-contact.png) ![Alt text](assets/media/browser-safari-mobile-about.png) 
+
+
+![Alt text](assets/media/browser-safari-menu.png) ![Alt text](assets/media/browser-safari-index.png) ![Alt text](assets/media/browser-safari-contact.png) ![Alt text](assets/media/browser-safari-about.png) 
+
+
+![Alt text](assets/media/browser-firefox-tablet-menu.png) 
+![Alt text](assets/media/browser-firefox-tablet-index.png) 
+![Alt text](assets/media/browser-firefox-tablet-contact.png) 
+![Alt text](assets/media/browser-firefox-tablet-about.png) 
+
+
+![Alt text](assets/media/browser-firefox-mobile-menu.png) ![Alt text](assets/media/browser-firefox-mobile-index.png) ![Alt text](assets/media/browser-firefox-mobile-contact.png) 
+![Alt text](assets/media/browser-firefox-mobile-about.png) 
+
+
+![Alt text](assets/media/browser-firefox-menu.png) ![Alt text](assets/media/browser-firefox-index.png) ![Alt text](assets/media/browser-firefox-contact.png) ![Alt text](assets/media/browser-firefox-about.png) 
+
+
+![Alt text](assets/media/browser-chrome-tablet-menu.png) ![Alt text](assets/media/browser-chrome-tablet-index.png) ![Alt text](assets/media/browser-chrome-tablet-contact.png) ![Alt text](assets/media/browser-chrome-tablet-about.png) 
+
+![Alt text](assets/media/browser-chrome-mobile-menu.png) ![Alt text](assets/media/browser-chrome-mobile-index.png) ![Alt text](assets/media/browser-chrome-mobile-contact.png) ![Alt text](assets/media/browser-chrome-mobile-about.png) 
+
+![Alt text](assets/media/browser-chrome-menu.png) ![Alt text](assets/media/browser-chrome-index.png) ![Alt text](assets/media/browser-chrome-contact.png) ![Alt text](assets/media/browser-chrome-about.png)
+
 
 - ### Mobile & Tablet
 
@@ -237,6 +267,7 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 - [Formspree - Form Submission](https://formspree.io/)
 
 
+
 ### Images
 
 - [Pexels - Thiago Miranda](https://images.pexels.com/photos/1478386/pexels-photo-1478386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
@@ -259,3 +290,4 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 
 - [Flipsnack - Menu design ideas: 10 mouth-watering menu fonts](https://blog.flipsnack.com/menu-design-ideas-10-menu-fonts/)
 - [NicePage - Black/White Theme](https://nicepage.com/s/79786/black-and-white-colors-of-art-css-template)
+- [Dlhamilton - README Reference](https://github.com/dlhamilton/LPSB-Learn-GCSE-CS)
