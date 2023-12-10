@@ -191,9 +191,15 @@ The manual testing conducted on the page includes the following aspects:
  The manual testing confirms that the page operates smoothly across multiple browsers, adapts well to different devices, ensures accurate link navigation, and maintains clear readability for users interacting with the content.
 
 - ### Desktop
-| First Header  | Second Header |Third Header |
+TODO - create a table here
+
+|Safari|Chrome|Firefox|
 | ------------- | ------------- |------------- |
-![Alt text](assets/media/browser-safari-tablet-menu.png) ![Alt text](assets/media/browser-safari-tablet-index.png) ![Alt text](assets/media/browser-safari-tablet-contact.png) ![Alt text](assets/media/browser-safari-tablet-about.png)
+![Alt text](assets/media/browser-safari-tablet-menu.png)  
+![Alt text](assets/media/browser-safari-tablet-index.png) 
+![Alt text](assets/media/browser-safari-tablet-contact.png) 
+![Alt text](assets/media/browser-safari-tablet-about.png)
+
 
 
 ![Alt text](assets/media/browser-safari-mobile-menu.png) ![Alt text](assets/media/browser-safari-mobile-index.png) ![Alt text](assets/media/browser-safari-mobile-contact.png) ![Alt text](assets/media/browser-safari-mobile-about.png) 
