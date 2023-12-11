@@ -61,14 +61,12 @@ TODO
 |6| As a customer, I want to be able to find more information about the bar. |I know I am done when I click on about page in the navigation section.|
 |7| As a customer, I want to be able to contact the bar. |I know I am done when I send the contact form with name, email and message.|
 
-
 ## Wireframe
 ![Wireframe - All pages](assets/media/Wireframe%20P1.png)
 ![Wireframe - Index](assets/media/wireframe-index.png)
 ![Wireframe - Menu](assets/media/wireframe-menu.png)
 ![Wireframe - Contact](assets/media/wireframe-contact.png)
 ![Wireframe - About](assets/media/wireframe-about.png)
-
 
 ## Features
 
@@ -101,7 +99,6 @@ Contains links to social media platforms
 
 Provides site's title and navigation links for the menu, about and contact pages
 
-
 ![Menu Active](assets/media/feat-menu-active.png)
 
 Menu active, showing the current page the user is on.
@@ -118,7 +115,6 @@ About active, showing the current page the user is on.
 ![About Page](assets/media/feat-about-page.PNG)
 
 Contains information about the bar.
-
 
 - ### Contact
 ![Contact Active](assets/media/feat-contact-active.PNG)
