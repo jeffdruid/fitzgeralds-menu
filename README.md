@@ -10,6 +10,7 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
 
 1. [Introduction](#introduction)
 1. [Technologies Used](#technologies-used)
+1. [User Stories](#user-stories)
 1. [Features](#features)
     - [Index](#index)
     - [Menu](#menu)
@@ -27,6 +28,8 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
         - [Desktop](#desktop)
         - [Tablet](#tablet)
         - [Mobile](#mobile)
+    - [Bugs](#bugs)
+    - [UI Improvements](#ui-improvements)
 1. [Deployment](#Deployment)
     - [Cloning & Forking](#cloning--forking)
     - [Local Deployment](#local-deployment)
@@ -45,6 +48,19 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 
 - HTML5
 - CSS3
+
+## User Stories
+TODO
+|Story No.|Story|  |
+| ----- | ----- | -----|
+|1| As a customer, I want to be able to access Fitzgerald's drinks menu digitally via QR code.| I know I am done when the menu page is displayed|
+|2| As a customer, I want to be able to navigate between different sections of the digital menu.| I know I am done when...|
+|3| As a customer, I want to be able to see available drinks. |I know I am done when...|
+|4| As a customer, I want to be able to see additional information from available drinks. |I know I am done when hovering or clicking each drink.|
+|5| As a customer, I want to be able to find links to social media platforms. |I know I am done when...|
+|6| As a customer, I want to be able to find more information about the bar. |I know I am done when I click on about page in the navigation section.|
+|7| As a customer, I want to be able to contact the bar. |I know I am done when I send the contact form with name, email and message.|
+
 
 ## Wireframe
 ![Wireframe - All pages](assets/media/Wireframe%20P1.png)
@@ -219,6 +235,7 @@ The manual testing conducted on the page includes the following aspects:
 - ### Bugs
         - Background video not playing on safari
         - Card overlay not working on safari
+        - Google maps stopped working.
 
 - ### UI improvements
         - extra space between navbar and form in the contact page on mobile devices. 
