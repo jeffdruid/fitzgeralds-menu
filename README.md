@@ -202,10 +202,16 @@ TODO - create a table here
 
 
 
-![Alt text](assets/media/browser-safari-mobile-menu.png) ![Alt text](assets/media/browser-safari-mobile-index.png) ![Alt text](assets/media/browser-safari-mobile-contact.png) ![Alt text](assets/media/browser-safari-mobile-about.png) 
+![Alt text](assets/media/browser-safari-mobile-menu.png) 
+![Alt text](assets/media/browser-safari-mobile-index.png) 
+![Alt text](assets/media/browser-safari-mobile-contact.png) 
+![Alt text](assets/media/browser-safari-mobile-about.png) 
 
 
-![Alt text](assets/media/browser-safari-menu.png) ![Alt text](assets/media/browser-safari-index.png) ![Alt text](assets/media/browser-safari-contact.png) ![Alt text](assets/media/browser-safari-about.png) 
+![Alt text](assets/media/browser-safari-menu.png) 
+![Alt text](assets/media/browser-safari-index.png) 
+![Alt text](assets/media/browser-safari-contact.png) 
+![Alt text](assets/media/browser-safari-about.png) 
 
 
 ![Alt text](assets/media/browser-firefox-tablet-menu.png) 
@@ -214,21 +220,44 @@ TODO - create a table here
 ![Alt text](assets/media/browser-firefox-tablet-about.png) 
 
 
-![Alt text](assets/media/browser-firefox-mobile-menu.png) ![Alt text](assets/media/browser-firefox-mobile-index.png) ![Alt text](assets/media/browser-firefox-mobile-contact.png) 
+![Alt text](assets/media/browser-firefox-mobile-menu.png) 
+![Alt text](assets/media/browser-firefox-mobile-index.png) 
+![Alt text](assets/media/browser-firefox-mobile-contact.png) 
 ![Alt text](assets/media/browser-firefox-mobile-about.png) 
 
 
-![Alt text](assets/media/browser-firefox-menu.png) ![Alt text](assets/media/browser-firefox-index.png) ![Alt text](assets/media/browser-firefox-contact.png) ![Alt text](assets/media/browser-firefox-about.png) 
+![Alt text](assets/media/browser-firefox-menu.png) 
+![Alt text](assets/media/browser-firefox-index.png) 
+![Alt text](assets/media/browser-firefox-contact.png) 
+![Alt text](assets/media/browser-firefox-about.png) 
 
 
-![Alt text](assets/media/browser-chrome-tablet-menu.png) ![Alt text](assets/media/browser-chrome-tablet-index.png) ![Alt text](assets/media/browser-chrome-tablet-contact.png) ![Alt text](assets/media/browser-chrome-tablet-about.png) 
+![Alt text](assets/media/browser-chrome-tablet-menu.png) 
+![Alt text](assets/media/browser-chrome-tablet-index.png) 
+![Alt text](assets/media/browser-chrome-tablet-contact.png) 
+![Alt text](assets/media/browser-chrome-tablet-about.png) 
 
-![Alt text](assets/media/browser-chrome-mobile-menu.png) ![Alt text](assets/media/browser-chrome-mobile-index.png) ![Alt text](assets/media/browser-chrome-mobile-contact.png) ![Alt text](assets/media/browser-chrome-mobile-about.png) 
+![Alt text](assets/media/browser-chrome-mobile-menu.png) 
+![Alt text](assets/media/browser-chrome-mobile-index.png) 
+![Alt text](assets/media/browser-chrome-mobile-contact.png) 
+![Alt text](assets/media/browser-chrome-mobile-about.png) 
 
-![Alt text](assets/media/browser-chrome-menu.png) ![Alt text](assets/media/browser-chrome-index.png) ![Alt text](assets/media/browser-chrome-contact.png) ![Alt text](assets/media/browser-chrome-about.png)
+![Alt text](assets/media/browser-chrome-menu.png) 
+![Alt text](assets/media/browser-chrome-index.png) 
+![Alt text](assets/media/browser-chrome-contact.png) 
+![Alt text](assets/media/browser-chrome-about.png)
 
 
 - ### Mobile & Tablet
+
+
+
+- ### Bugs
+        - Background video not playing on safari
+        - Card overlay not working on safari
+
+- ### UI improvements
+        - extra space between navbar and form in the contact page on mobile devices. 
 
 ## Deployment
 
@@ -271,8 +300,6 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 - [CSS Tricks - Full-page background video styles](https://css-tricks.com/full-page-background-video-styles)
 - [We Tech Talk - Creating a Masonry](https://www.youtube.com/watch?v=-isQPqqnIBo)
 - [Formspree - Form Submission](https://formspree.io/)
-
-
 
 ### Images
 
