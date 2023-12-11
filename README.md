@@ -25,7 +25,8 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
     - [Responsiveness](#responsiveness)
     - [Manual Testing](#manual-testing)
         - [Desktop](#desktop)
-        - [Mobile & Tablet](#mobile--tablet)
+        - [Tablet](#tablet)
+        - [Mobile](#mobile)
 1. [Deployment](#Deployment)
     - [Cloning & Forking](#cloning--forking)
     - [Local Deployment](#local-deployment)
@@ -190,67 +191,30 @@ The manual testing conducted on the page includes the following aspects:
 
  The manual testing confirms that the page operates smoothly across multiple browsers, adapts well to different devices, ensures accurate link navigation, and maintains clear readability for users interacting with the content.
 
-- ### Desktop
-TODO - create a table here
+### Desktop
 
 |Safari|Chrome|Firefox|
 | ------------- | ------------- |------------- |
-![Alt text](assets/media/browser-safari-tablet-menu.png)  
-![Alt text](assets/media/browser-safari-tablet-index.png) 
-![Alt text](assets/media/browser-safari-tablet-contact.png) 
-![Alt text](assets/media/browser-safari-tablet-about.png)
+|![Alt text](assets/media/browser-safari-index.png)|![Alt text](assets/media/browser-chrome-index.png)|![Alt text](assets/media/browser-firefox-index.png)|
+|![Alt text](assets/media/browser-safari-menu.png)|![Alt text](assets/media/browser-chrome-menu.png)|![Alt text](assets/media/browser-firefox-menu.png)|
+|![Alt text](assets/media/browser-safari-contact.png)|![Alt text](assets/media/browser-chrome-contact.png)|![Alt text](assets/media/browser-firefox-contact.png)|
+|![Alt text](assets/media/browser-safari-about.png)|![Alt text](assets/media/browser-chrome-about.png)|![Alt text](assets/media/browser-firefox-about.png)|
 
+### Tablet
+|Safari|Chrome|Firefox|
+| ------------- | ------------- |------------- |
+|![Alt text](assets/media/browser-safari-tablet-index.png)|![Alt text](assets/media/browser-chrome-tablet-index.png)|![Alt text](assets/media/browser-firefox-tablet-index.png)|
+|![Alt text](assets/media/browser-safari-tablet-menu.png)|![Alt text](assets/media/browser-chrome-tablet-menu.png)|![Alt text](assets/media/browser-firefox-tablet-menu.png)|
+|![Alt text](assets/media/browser-safari-tablet-contact.png)|![Alt text](assets/media/browser-chrome-tablet-contact.png)|![Alt text](assets/media/browser-firefox-tablet-contact.png)|
+|![Alt text](assets/media/browser-safari-tablet-about.png)|![Alt text](assets/media/browser-chrome-tablet-about.png)|![Alt text](assets/media/browser-firefox-tablet-about.png)|
 
-
-![Alt text](assets/media/browser-safari-mobile-menu.png) 
-![Alt text](assets/media/browser-safari-mobile-index.png) 
-![Alt text](assets/media/browser-safari-mobile-contact.png) 
-![Alt text](assets/media/browser-safari-mobile-about.png) 
-
-
-![Alt text](assets/media/browser-safari-menu.png) 
-![Alt text](assets/media/browser-safari-index.png) 
-![Alt text](assets/media/browser-safari-contact.png) 
-![Alt text](assets/media/browser-safari-about.png) 
-
-
-![Alt text](assets/media/browser-firefox-tablet-menu.png) 
-![Alt text](assets/media/browser-firefox-tablet-index.png) 
-![Alt text](assets/media/browser-firefox-tablet-contact.png) 
-![Alt text](assets/media/browser-firefox-tablet-about.png) 
-
-
-![Alt text](assets/media/browser-firefox-mobile-menu.png) 
-![Alt text](assets/media/browser-firefox-mobile-index.png) 
-![Alt text](assets/media/browser-firefox-mobile-contact.png) 
-![Alt text](assets/media/browser-firefox-mobile-about.png) 
-
-
-![Alt text](assets/media/browser-firefox-menu.png) 
-![Alt text](assets/media/browser-firefox-index.png) 
-![Alt text](assets/media/browser-firefox-contact.png) 
-![Alt text](assets/media/browser-firefox-about.png) 
-
-
-![Alt text](assets/media/browser-chrome-tablet-menu.png) 
-![Alt text](assets/media/browser-chrome-tablet-index.png) 
-![Alt text](assets/media/browser-chrome-tablet-contact.png) 
-![Alt text](assets/media/browser-chrome-tablet-about.png) 
-
-![Alt text](assets/media/browser-chrome-mobile-menu.png) 
-![Alt text](assets/media/browser-chrome-mobile-index.png) 
-![Alt text](assets/media/browser-chrome-mobile-contact.png) 
-![Alt text](assets/media/browser-chrome-mobile-about.png) 
-
-![Alt text](assets/media/browser-chrome-menu.png) 
-![Alt text](assets/media/browser-chrome-index.png) 
-![Alt text](assets/media/browser-chrome-contact.png) 
-![Alt text](assets/media/browser-chrome-about.png)
-
-
-- ### Mobile & Tablet
-
-
+### Mobile
+|Safari|Chrome|Firefox|
+| ------------- | ------------- |------------- |
+|![Alt text](assets/media/browser-safari-mobile-index.png)|![Alt text](assets/media/browser-chrome-mobile-index.png)|![Alt text](assets/media/browser-firefox-mobile-index.png)| 
+|![Alt text](assets/media/browser-safari-mobile-menu.png)|![Alt text](assets/media/browser-chrome-mobile-menu.png)|![Alt text](assets/media/browser-firefox-mobile-menu.png)|
+|![Alt text](assets/media/browser-safari-mobile-contact.png)|![Alt text](assets/media/browser-chrome-mobile-contact.png)|![Alt text](assets/media/browser-firefox-mobile-contact.png)|
+|![Alt text](assets/media/browser-safari-mobile-about.png)|![Alt text](assets/media/browser-chrome-mobile-about.png)|![Alt text](assets/media/browser-firefox-mobile-about.png)|
 
 - ### Bugs
         - Background video not playing on safari
