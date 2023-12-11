@@ -207,7 +207,7 @@ The manual testing conducted on the page includes the following aspects:
 
 ### Desktop
 
-|Safari|Chrome|Firefox|
+|Safari - Version 17.1|Chrome - Version 120.0.6099.71|Firefox - Version 120.0.1|
 | ------------- | ------------- |------------- |
 |![Alt text](assets/media/browser-safari-index.png)|![Alt text](assets/media/browser-chrome-index.png)|![Alt text](assets/media/browser-firefox-index.png)|
 |![Alt text](assets/media/browser-safari-menu.png)|![Alt text](assets/media/browser-chrome-menu.png)|![Alt text](assets/media/browser-firefox-menu.png)|
@@ -215,7 +215,7 @@ The manual testing conducted on the page includes the following aspects:
 |![Alt text](assets/media/browser-safari-about.png)|![Alt text](assets/media/browser-chrome-about.png)|![Alt text](assets/media/browser-firefox-about.png)|
 
 ### Tablet
-|Safari|Chrome|Firefox|
+|Safari - Version 17.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0|
 | ------------- | ------------- |------------- |
 |![Alt text](assets/media/browser-safari-tablet-index.png)|![Alt text](assets/media/browser-chrome-tablet-index.png)|![Alt text](assets/media/browser-firefox-tablet-index.png)|
 |![Alt text](assets/media/browser-safari-tablet-menu.png)|![Alt text](assets/media/browser-chrome-tablet-menu.png)|![Alt text](assets/media/browser-firefox-tablet-menu.png)|
@@ -223,7 +223,7 @@ The manual testing conducted on the page includes the following aspects:
 |![Alt text](assets/media/browser-safari-tablet-about.png)|![Alt text](assets/media/browser-chrome-tablet-about.png)|![Alt text](assets/media/browser-firefox-tablet-about.png)|
 
 ### Mobile
-|Safari|Chrome|Firefox|
+|Safari - Version 17.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0 |
 | ------------- | ------------- |------------- |
 |![Alt text](assets/media/browser-safari-mobile-index.png)|![Alt text](assets/media/browser-chrome-mobile-index.png)|![Alt text](assets/media/browser-firefox-mobile-index.png)| 
 |![Alt text](assets/media/browser-safari-mobile-menu.png)|![Alt text](assets/media/browser-chrome-mobile-menu.png)|![Alt text](assets/media/browser-firefox-mobile-menu.png)|
