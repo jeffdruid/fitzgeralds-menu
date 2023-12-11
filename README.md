@@ -242,22 +242,22 @@ The manual testing conducted on the page includes the following aspects:
         
         ![Fitzgerald's pin on Google Maps](assets/media/feat-google-maps.PNG)
     
-    From:
-    ```ruby
-        #contact iframe {
-            z-index: -999;
-        }
-    ```
-    To:
-    ```ruby
-        #contact iframe {
-            z-index: 2;
-        }
-    ```
-
+        From:
+        ```ruby
+            #contact iframe {
+                z-index: -999;
+            }
+        ```
+        To:
+        ```ruby
+            #contact iframe {
+                z-index: 2;
+            }
+        ```
+        Solved the issue by bringing the iframe element in front of the margin from the contact form.
 
 - ### UI Improvements
-    - extra space between navbar and form in the contact page on mobile devices.![Contact page - Mobile](assets/media/browser-safari-mobile-contact.png)
+    - Extra space between navbar and form in the contact page on mobile devices.![Contact page - Mobile](assets/media/browser-safari-mobile-contact.png)
     - Make landing page more intuitive
     ![Index Page - Tablet](assets/media/browser-firefox-tablet-index.png)
     - Add Youtube clip in the about section
