@@ -238,9 +238,23 @@ The manual testing conducted on the page includes the following aspects:
     - Background video not playing on safari
     ![Index Page - Tablet](assets/media/browser-safari-tablet-index.png)
     - Card overlay not working on safari
-    - Google maps stopped working.
-
+    - Google maps not being clickable.
+        
         ![Fitzgerald's pin on Google Maps](assets/media/feat-google-maps.PNG)
+    
+    From:
+    ```ruby
+        #contact iframe {
+            z-index: -999;
+        }
+    ```
+    To:
+    ```ruby
+        #contact iframe {
+            z-index: 2;
+        }
+    ```
+
 
 - ### UI Improvements
     - extra space between navbar and form in the contact page on mobile devices.![Contact page - Mobile](assets/media/browser-safari-mobile-contact.png)
