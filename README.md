@@ -299,14 +299,23 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 ### Source code 
 
 - [Stack Overflow - Changing hover to touch for mobile devices](https://stackoverflow.com/questions/22559756/changing-hover-to-touch-click-for-mobile-devices)
+    - Overlay effect on mobile and tablet devices on click.
 - [W3Schools - Pseudo classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+    - Use of :active pseudo-class in the overlay card.
 - [CodePen - Card Overlay](https://codepen.io/sstromick/pen/qBOeypG)
+    - Overlay effect on mobile and tablet devices.
 - [Love Running - Navigation Bar](https://github.com/Code-Institute-Solutions/love-running-v3)
+    - Navigation Bar on desktop.
 - [MDN - Using CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions)
+    - Transition effects on toggle navigation bar.
 - [W3CSchools - Transitions](https://www.w3schools.com/css/css3_transitions.asp )
+    - Transition effects on toggle navigation bar.
 - [CSS Tricks - Full-page background video styles](https://css-tricks.com/full-page-background-video-styles)
+    - Index page's background video effect.
 - [We Tech Talk - Creating a Masonry](https://www.youtube.com/watch?v=-isQPqqnIBo)
+    - Menu gallery.
 - [Formspree - Form Submission](https://formspree.io/)
+    - Form submission.
 
 ### Images
 
