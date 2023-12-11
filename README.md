@@ -75,15 +75,13 @@ TODO
 - ### Index
 
 ![Menu Hero](assets/media/feat-menu-hero.PNG)
-
-Clicking on the "MENU" heading navigates the user to the meu.html page.
-Background video starts playing once the page loads, it is set to autoplay, mute and loop.
+*Clicking on the "MENU" heading navigates the user to the meu.html page. Background video starts playing once the page loads, it is set to autoplay, mute and loop.*
 
 - ### Menu
 
 ![Menu page](assets/media/feat-menu-page.png)
 
-Display various drinks available at Fitzgerlads bar.
+Display various drinks available at Fitzgerald's bar.
 
 ![Gallery](assets/media/feat-gallery.PNG) 
 
@@ -233,12 +231,20 @@ The manual testing conducted on the page includes the following aspects:
 |![Alt text](assets/media/browser-safari-mobile-about.png)|![Alt text](assets/media/browser-chrome-mobile-about.png)|![Alt text](assets/media/browser-firefox-mobile-about.png)|
 
 - ### Bugs
-        - Background video not playing on safari
-        - Card overlay not working on safari
-        - Google maps stopped working.
+    - Background video not playing on safari
+    - Card overlay not working on safari
+    - Google maps stopped working.
 
-- ### UI improvements
-        - extra space between navbar and form in the contact page on mobile devices. 
+- ### UI Improvements
+    - extra space between navbar and form in the contact page on mobile devices.
+    - Make landing page more intuitive
+    - Add address in the about section
+    - Open social links in another tab
+
+- ### Future Improvements
+    - Search function
+    - Feedback and Review
+    - Social sharing
 
 ## Deployment
 
