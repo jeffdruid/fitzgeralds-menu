@@ -154,14 +154,18 @@ Displays location of the bar using embedded map.
 ### Validator Testing
 
 - #### HTML
-    - [W3C Validator - Index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html)![W3C Resultus - Index](assets/media/test-index.png)
-    - [W3C Validator - Menu](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html)![Alt text](assets/media/test-menu.png)
-    - [W3C Validator - About](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html)![Alt text](assets/media/test-about.png)
-    - [W3C Validator - Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fcontact.html)![Alt text](assets/media/test-contact.png)
+    - [W3C Validator - Index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html)
+    ![W3C Results - Index](assets/media/test-index.png)
+    - [W3C Validator - Menu](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html)
+    ![W3C Results - Menu](assets/media/test-menu.png)
+    - [W3C Validator - About](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fabout.html)
+    ![W3C Results - About](assets/media/test-about.png)
+    - [W3C Validator - Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fcontact.html)
+    ![W3C Results - Contact](assets/media/test-contact.png)
 
 - #### CSS
     - [Jigsaw Validator - CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-    ![Alt text](assets/media/test-css.png)
+    ![Jigsaw Results - CSS](assets/media/test-css.png)
 
 - #### Accessibility
 
@@ -178,10 +182,10 @@ Screenshots of the various device breakpoints for responsive design.
 
 Viewport - Desktop: 1600x992px / Laptop: 1280x802px / Tablet: 768x1024px / Mobile: 320x480px.
 
-![Alt text](assets/media/resp-menu.PNG)
-![Alt text](assets/media/resp-menu-page.PNG) 
-![Alt text](assets/media/resp-about.PNG) 
-![Alt text](assets/media/resp-contact.PNG) 
+![Responsive Page - Index](assets/media/resp-menu.PNG)
+![Responsive Page - Menu](assets/media/resp-menu-page.PNG) 
+![Responsive Page - About](assets/media/resp-about.PNG) 
+![Responsive Page - Contact](assets/media/resp-contact.PNG) 
 
 ### Manual Testing
 
@@ -207,44 +211,44 @@ The manual testing conducted on the page includes the following aspects:
 
 ### Desktop
 
-|Safari - Version 17.1|Chrome - Version 120.0.6099.71|Firefox - Version 120.0.1|
+|Safari - Version 16.6|Chrome - Version 120.0.6099.71|Firefox - Version 120.0.1|
 | ------------- | ------------- |------------- |
-|![Alt text](assets/media/browser-safari-index.png)|![Alt text](assets/media/browser-chrome-index.png)|![Alt text](assets/media/browser-firefox-index.png)|
-|![Alt text](assets/media/browser-safari-menu.png)|![Alt text](assets/media/browser-chrome-menu.png)|![Alt text](assets/media/browser-firefox-menu.png)|
-|![Alt text](assets/media/browser-safari-contact.png)|![Alt text](assets/media/browser-chrome-contact.png)|![Alt text](assets/media/browser-firefox-contact.png)|
-|![Alt text](assets/media/browser-safari-about.png)|![Alt text](assets/media/browser-chrome-about.png)|![Alt text](assets/media/browser-firefox-about.png)|
+|![Index Page - Safari - Desktop](assets/media/browser-safari-index.png)|![Index Page - Chrome - Desktop](assets/media/browser-chrome-index.png)|![Index Page - Firefox - Desktop](assets/media/browser-firefox-index.png)|
+|![Menu Page - Safari - Desktop](assets/media/browser-safari-menu.png)|![Menu Page - Chrome - Desktop](assets/media/browser-chrome-menu.png)|![Menu Page - Firefox - Desktop](assets/media/browser-firefox-menu.png)|
+|![Contact Page - Safari - Desktop](assets/media/browser-safari-contact.png)|![Contact Page - Chrome - Desktop](assets/media/browser-chrome-contact.png)|![Contact Page - Firefox - Desktop](assets/media/browser-firefox-contact.png)|
+|![About Page - Safari - Desktop](assets/media/browser-safari-about.png)|![About Page - Chrome - Desktop](assets/media/browser-chrome-about.png)|![About Page - Firefox - Desktop](assets/media/browser-firefox-about.png)|
 
 ### Tablet
-|Safari - Version 17.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0|
+|Safari - Version 15.6.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0|
 | ------------- | ------------- |------------- |
-|![Alt text](assets/media/browser-safari-tablet-index.png)|![Alt text](assets/media/browser-chrome-tablet-index.png)|![Alt text](assets/media/browser-firefox-tablet-index.png)|
-|![Alt text](assets/media/browser-safari-tablet-menu.png)|![Alt text](assets/media/browser-chrome-tablet-menu.png)|![Alt text](assets/media/browser-firefox-tablet-menu.png)|
-|![Alt text](assets/media/browser-safari-tablet-contact.png)|![Alt text](assets/media/browser-chrome-tablet-contact.png)|![Alt text](assets/media/browser-firefox-tablet-contact.png)|
-|![Alt text](assets/media/browser-safari-tablet-about.png)|![Alt text](assets/media/browser-chrome-tablet-about.png)|![Alt text](assets/media/browser-firefox-tablet-about.png)|
+|![Index Page - Safari - Tablet](assets/media/browser-safari-tablet-index.png)|![Index Page - Chrome - Tablet](assets/media/browser-chrome-tablet-index.png)|![Index Page - Firefox - Tablet](assets/media/browser-firefox-tablet-index.png)|
+|![Menu Page - Safari - Tablet](assets/media/browser-safari-tablet-menu.png)|![Menu Page - Chrome - Tablet](assets/media/browser-chrome-tablet-menu.png)|![Menu Page - Firefox - Tablet](assets/media/browser-firefox-tablet-menu.png)|
+|![Contact Page - Safari - Tablet](assets/media/browser-safari-tablet-contact.png)|![Contact Page - Chrome - Tablet](assets/media/browser-chrome-tablet-contact.png)|![Contact Page - Firefox - Tablet](assets/media/browser-firefox-tablet-contact.png)|
+|![About Page - Safari - Tablet](assets/media/browser-safari-tablet-about.png)|![About Page - Chrome - Tablet](assets/media/browser-chrome-tablet-about.png)|![About Page - Firefox - Tablet](assets/media/browser-firefox-tablet-about.png)|
 
 ### Mobile
-|Safari - Version 17.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0 |
+|Safari - Version 17.1.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0 |
 | ------------- | ------------- |------------- |
-|![Alt text](assets/media/browser-safari-mobile-index.png)|![Alt text](assets/media/browser-chrome-mobile-index.png)|![Alt text](assets/media/browser-firefox-mobile-index.png)| 
-|![Alt text](assets/media/browser-safari-mobile-menu.png)|![Alt text](assets/media/browser-chrome-mobile-menu.png)|![Alt text](assets/media/browser-firefox-mobile-menu.png)|
-|![Alt text](assets/media/browser-safari-mobile-contact.png)|![Alt text](assets/media/browser-chrome-mobile-contact.png)|![Alt text](assets/media/browser-firefox-mobile-contact.png)|
-|![Alt text](assets/media/browser-safari-mobile-about.png)|![Alt text](assets/media/browser-chrome-mobile-about.png)|![Alt text](assets/media/browser-firefox-mobile-about.png)|
+|![Index Page - Safari - Mobile](assets/media/browser-safari-mobile-index.png)|![Index Page - Chrome - Mobile](assets/media/browser-chrome-mobile-index.png)|![Index Page - Firefox - Mobile](assets/media/browser-firefox-mobile-index.png)| 
+|![Menu Page - Safari - Mobile](assets/media/browser-safari-mobile-menu.png)|![Menu Page - Chrome - Mobile](assets/media/browser-chrome-mobile-menu.png)|![Menu Page - Firefox - Mobile](assets/media/browser-firefox-mobile-menu.png)|
+|![Contact Page - Safari - Mobile](assets/media/browser-safari-mobile-contact.png)|![Contact Page - Chrome - Mobile](assets/media/browser-chrome-mobile-contact.png)|![Contact Page - Firefox - Mobile](assets/media/browser-firefox-mobile-contact.png)|
+|![About Page - Safari - Mobile](assets/media/browser-safari-mobile-about.png)|![About Page - Chrome - Mobile](assets/media/browser-chrome-mobile-about.png)|![About Page - Firefox - Mobile](assets/media/browser-firefox-mobile-about.png)|
 
 - ### Bugs
     - Background video not playing on safari
-    ![Alt text](assets/media/browser-safari-tablet-index.png)
+    ![Index Page - Tablet](assets/media/browser-safari-tablet-index.png)
     - Card overlay not working on safari
     - Google maps stopped working.
 
-        ![Alt text](assets/media/feat-google-maps.PNG)
+        ![Fitzgerald's pin on Google Maps](assets/media/feat-google-maps.PNG)
 
 - ### UI Improvements
-    - extra space between navbar and form in the contact page on mobile devices.![Alt text](assets/media/browser-safari-mobile-contact.png)
+    - extra space between navbar and form in the contact page on mobile devices.![Contact page - Mobile](assets/media/browser-safari-mobile-contact.png)
     - Make landing page more intuitive
-    ![Alt text](assets/media/browser-firefox-tablet-index.png)
+    ![Index Page - Tablet](assets/media/browser-firefox-tablet-index.png)
     - Add Youtube clip in the about section
     - Add address in the contact section
-    ![Alt text](assets/media/browser-safari-contact.png)
+    ![Contact Us Page - Desktop](assets/media/browser-safari-contact.png)
     - Open social links in another tab
 
 - ### Future Improvements
