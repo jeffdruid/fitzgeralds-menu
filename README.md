@@ -232,13 +232,19 @@ The manual testing conducted on the page includes the following aspects:
 
 - ### Bugs
     - Background video not playing on safari
+    ![Alt text](assets/media/browser-safari-tablet-index.png)
     - Card overlay not working on safari
     - Google maps stopped working.
 
+        ![Alt text](assets/media/feat-google-maps.PNG)
+
 - ### UI Improvements
-    - extra space between navbar and form in the contact page on mobile devices.
+    - extra space between navbar and form in the contact page on mobile devices.![Alt text](assets/media/browser-safari-mobile-contact.png)
     - Make landing page more intuitive
-    - Add address in the about section
+    ![Alt text](assets/media/browser-firefox-tablet-index.png)
+    - Add Youtube clip in the about section
+    - Add address in the contact section
+    ![Alt text](assets/media/browser-safari-contact.png)
     - Open social links in another tab
 
 - ### Future Improvements
