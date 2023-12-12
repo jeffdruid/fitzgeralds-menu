@@ -83,73 +83,54 @@ TODO
 
 - ### Menu
 
-![Menu page](assets/media/feat-menu-page.png)
+    - Display various drinks available at Fitzgerald's bar.
+    ![Menu page](assets/media/feat-menu-page.png)
 
-Display various drinks available at Fitzgerald's bar.
+    - Each card have an image of the drinks with name, alcohol percentage and price.
+    ![Gallery](assets/media/feat-gallery.PNG) 
 
-![Gallery](assets/media/feat-gallery.PNG) 
+    - Cards have overlays providing additional details upon hover/clicked (mobile)
+    ![Overlay](assets/media/feat-overlay.PNG)
 
-Each card have an image of the drinks with name, alcohol percentage and price.
-
-![Overlay](assets/media/feat-overlay.PNG)
-
-Cards have overlays providing additional details upon hover/clicked (mobile)
-
-![Footer](assets/media/feat-footer.PNG)
-
-Contains links to social media platforms
+    - Contains links to social media platforms
+    ![Footer](assets/media/feat-footer.PNG)
 
 - ### Navbar
 
-![Navbar on Mobile](assets/media/feat-navbar-mobile.PNG) 
+    - Provides site's title and navigation links for the menu, about and contact pages.
+    ![Navbar on Mobile](assets/media/feat-navbar-mobile.PNG) 
 
-Provides site's title and navigation links for the menu, about and contact pages
+    - Menu active, showing the current page the user is on.
 
-![Menu Active](assets/media/feat-menu-active.png)
+        ![Menu Active](assets/media/feat-menu-active.png)
 
-Menu active, showing the current page the user is on.
-
-![Menu Icon](assets/media/feat-nav-toggle.PNG)
-
-Menu icon, displayed on mobile devices.
+    - Menu icon, displayed on mobile devices.
+    
+        ![Menu Icon](assets/media/feat-nav-toggle.PNG)
 
 - ### About
-![About Active](assets/media/feat-about-active.png)
+    - About active, showing the current page the user is on.
+        
+        ![About Active](assets/media/feat-about-active.png)
 
-About active, showing the current page the user is on.
-
-![About Page](assets/media/feat-about-page.PNG)
-
-Contains information about the bar.
+    - Contains information about the bar.
+        
+        ![About Page](assets/media/feat-about-page.PNG)
 
 - ### Contact
-![Contact Active](assets/media/feat-contact-active.PNG)
+    - Contact active, showing the current page the user is on.
+        
+        ![Contact Active](assets/media/feat-contact-active.PNG)
 
-Contact active, showing the current page the user is on.
+    - Contains a contact form for users to send messages.
+        ![Contact Page](assets/media/feat-contact-page.png)
 
-![Contact Page](assets/media/feat-contact-page.png)
+    - Contains a form where users are able to enter their name, email and message, allowing them to contact the bar.
+    ![Form](assets/media/feat-form.PNG)
 
-Contains a contact form for users to send messages.
-
-![Form](assets/media/feat-form.PNG)
-
-Contains a form where users are able to enter their name, email and message, allowing them to contact the bar.
-
-![Form Name](assets/media/feat-form-name-required.PNG) 
-
-Prevents user to submit a form without name. 
-
-![Form Email](assets/media/feat-form-email-required.PNG) 
-
-Prevents user to submit a form without email.
-
-![Form Message](assets/media/feat-form-message-required.PNG)
-
-Prevents user to submit a form without a message.
-
-![Google maps](assets/media/feat-google-maps.PNG)
-
-Displays location of the bar using embedded map.
+    - Displays location of the bar using embedded map.
+        
+        ![Google maps](assets/media/feat-google-maps.PNG)
 
 ## Testing
 
@@ -212,7 +193,17 @@ The manual testing conducted on the page includes the following aspects:
  The manual testing confirms that the page operates smoothly across multiple browsers, adapts well to different devices, ensures accurate link navigation, and maintains clear readability for users interacting with the content.
 
 - #### Acceptance Test
-TODO
+    Verified that appropriate error messages prompt the user to fill the missing fields.
+
+    - Prevents user to submit a form without name. 
+    ![Form Name](assets/media/feat-form-name-required.PNG) 
+
+    - Prevents user to submit a form without email.
+    ![Form Email](assets/media/feat-form-email-required.PNG) 
+
+    - Prevents user to submit a form without a message.
+    ![Form Message](assets/media/feat-form-message-required.PNG)
+
 
 - #### Desktop
     |Safari - Version 16.6|Chrome - Version 120.0.6099.71|Firefox - Version 120.0.1|
