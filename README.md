@@ -270,31 +270,31 @@ The manual testing conducted on the page includes the following aspects:
 
 ### Cloning & Forking
 #### Forking a Repository
-1. Visit [Fitzgerald's Menu](https://github.com/jeffdruid/fitzgeralds-menu) 
+1. Visit [Fitzgerald's Menu](https://github.com/jeffdruid/fitzgeralds-menu).
 2. Click on the "Fork" button located in the top-right corner of the page.
-3. Provide a description for your fork.
-4. Select "Create fork".
+3. Optionally, you can provide a description for your fork.
+4. Select "Create fork". You will be redirected to your newly created forked repository.
 
 #### Cloning a Repository
 1. Navigate to the repository on Github and click the "Code" button located above the list of files.
-2. Copy the repository's URL.
-3. Open Terminal and change the directory to where you want the cloned directory.
-4. Enter "git clone" then paste the URL.
+2. Click on thee "Code" button and copy the repository's URL.
+3. Open your Terminal application on your computer and change the directory to where you want the cloned directory.
+4. Enter the command "git clone" followed by the repository's URL. This downloads a copy of the repository into your local machine.
 
 ### Local Deployment
-1. Sign up for Gitpod using your GitHub account.
-2. Install the Gitpod browser extension to access Gitpod from GitHub.
+1. Sign up for [Gitpod](https://www.gitpod.io/) using your GitHub account.
+2. Install the Gitpod browser extension to access Gitpod from GitHub. You can find the extension [here](https://www.gitpod.io/docs/browser-extension/).
 3. Go to the [Fitzgerald's Menu](https://github.com/jeffdruid/fitzgeralds-menu).
-4. Click on the "GitPod" button above the list of files in the repository on GitHub.
+4. Click on the "GitPod" button above the list of files in the repository on GitHub. This opens Gitpod workspace using the repository.
 
 ### Remote Deployment
 To deploy the site on GitHub Pages after forking or cloning:
 
 1. Go to your repository on GitHub.
-2. Access the settings tab.
-3. Click on the "Pages'tab in the left sidebar.
-4. Under the "Build and Deployment" section, select "main" from the source drop-down list.
-5. The page will display the link to the deployed website.
+2. Click on the "Settings" tab on the top of your repository.
+3. In the left sidebar, click on the "Pages" tab.
+4. Under the "Build and Deployment" section, select "main" from the source drop-down list and click on the "Save" button.
+5. The page will display the link to the deployed website. You wil see a green success message indicating that your site is published at the specific URL.
 
 You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github.io/fitzgeralds-menu/index.html)
 
