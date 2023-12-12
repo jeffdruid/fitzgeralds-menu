@@ -282,6 +282,10 @@ The manual testing conducted on the page includes the following aspects:
 4. Enter "git clone" then paste the URL.
 
 ### Local Deployment
+1. Sign up for Gitpod using your GitHub account.
+2. Install the Gitpod browser extension to access Gitpod from GitHub.
+3. Go to the [Fitzgerald's Menu](https://github.com/jeffdruid/fitzgeralds-menu).
+4. Click on the "GitPod" button above the list of files in the repository on GitHub.
 
 ### Remote Deployment
 To deploy the site on GitHub Pages after forking or cloning:
