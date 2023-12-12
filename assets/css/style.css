@@ -256,6 +256,10 @@ main {
     line-height: 1.75rem;
 }
 
+#youtube-player iframe {
+    width: 100%;
+}
+
 /* Contact Section */
 #contact {
     display: flex;
