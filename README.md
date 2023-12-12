@@ -37,6 +37,7 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
 1. [Credits](#credits)
     - [Source Code](#source-code)
     - [Icons](#icons)
+    - [Videos](#videos)
     - [Images](#images)
     - [Useful links](#useful-links)
 
@@ -320,6 +321,9 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
     - Menu gallery.
 - [Formspree - Form Submission](https://formspree.io/)
     - Form submission.
+
+### Videos
+- [Cover Girls](https://www.youtube.com/watch?v=89UkgFiritU&t=1s)
 
 ### Images
 
