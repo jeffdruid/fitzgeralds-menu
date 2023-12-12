@@ -258,6 +258,7 @@ The manual testing conducted on the page includes the following aspects:
     - Make landing page more intuitive
     ![Index Page - Tablet](assets/media/browser-firefox-tablet-index.png)
     - Add Youtube clip in the about section
+    ![Alt text](assets/media/feat-about-youtube.png)
     - Add address in the contact section
     ![Contact Us Page - Desktop](assets/media/browser-safari-contact.png)
     - Open social links in another tab
