@@ -25,6 +25,11 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
     - [Accessibility](#accessibility)
     - [Responsiveness](#responsiveness)
     - [Manual Testing](#manual-testing)
+        - [Cross-browser Compatibility](#cross-browser-compatibility)
+        - [Responsiveness and Device Compatibility](#responsiveness-and-device-compatibility)
+        - [Link Validation](#link-validation)
+        - [Text and Font Readability](#text-and-font-readability)
+        - [Acceptance Test](#acceptance-test)
         - [Desktop](#desktop)
         - [Tablet](#tablet)
         - [Mobile](#mobile)
@@ -164,7 +169,7 @@ Displays location of the bar using embedded map.
     - [Jigsaw Validator - CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
     ![Jigsaw Results - CSS](assets/media/test-css.png)
 
-- #### Accessibility
+### Accessibility
 
  Lighthouse results from Google Devtools
 
@@ -173,7 +178,7 @@ Displays location of the bar using embedded map.
 ![About Performance](assets/media/perf-about.png)
 ![Contact Performance](assets/media/perf-contact.png)
 
-#### Responsiveness
+### Responsiveness
 
 Screenshots of the various device breakpoints for responsive design.
 
@@ -188,89 +193,91 @@ Viewport - Desktop: 1600x992px / Laptop: 1280x802px / Tablet: 768x1024px / Mobil
 
 The manual testing conducted on the page includes the following aspects:
 
-- #### Cross-browser Compatibility:
+- #### Cross-browser Compatibility
 
     - Verified the functionality of the page across different web browsers to ensure it works properly and it is consistent.
 
-- #### Responsiveness and Device Compatibility:
+- #### Responsiveness and Device Compatibility
 
     - Verified that the project displays correctly and functions appropriately across various device sizes, ensuring a good user experience.
 
-- #### Link Validation:
+- #### Link Validation
 
     - Verified all internal and external links to ensure they direct users to the intended destinations and open correctly without issues.
 
-- #### Text and Font Readability:
+- #### Text and Font Readability
 
     - Verified that all text content and fonts used on the page are legible, clear, and easy to understand.
 
  The manual testing confirms that the page operates smoothly across multiple browsers, adapts well to different devices, ensures accurate link navigation, and maintains clear readability for users interacting with the content.
 
-### Desktop
+- #### Acceptance Test
+TODO
 
-|Safari - Version 16.6|Chrome - Version 120.0.6099.71|Firefox - Version 120.0.1|
-| ------------- | ------------- |------------- |
-|![Index Page - Safari - Desktop](assets/media/browser-safari-index.png)|![Index Page - Chrome - Desktop](assets/media/browser-chrome-index.png)|![Index Page - Firefox - Desktop](assets/media/browser-firefox-index.png)|
-|![Menu Page - Safari - Desktop](assets/media/browser-safari-menu.png)|![Menu Page - Chrome - Desktop](assets/media/browser-chrome-menu.png)|![Menu Page - Firefox - Desktop](assets/media/browser-firefox-menu.png)|
-|![Contact Page - Safari - Desktop](assets/media/browser-safari-contact.png)|![Contact Page - Chrome - Desktop](assets/media/browser-chrome-contact.png)|![Contact Page - Firefox - Desktop](assets/media/browser-firefox-contact.png)|
-|![About Page - Safari - Desktop](assets/media/browser-safari-about.png)|![About Page - Chrome - Desktop](assets/media/browser-chrome-about.png)|![About Page - Firefox - Desktop](assets/media/browser-firefox-about.png)|
+- #### Desktop
+    |Safari - Version 16.6|Chrome - Version 120.0.6099.71|Firefox - Version 120.0.1|
+    | ------------- | ------------- |------------- |
+    |![Index Page - Safari - Desktop](assets/media/browser-safari-index.png)|![Index Page - Chrome - Desktop](assets/media/browser-chrome-index.png)|![Index Page - Firefox - Desktop](assets/media/browser-firefox-index.png)|
+    |![Menu Page - Safari - Desktop](assets/media/browser-safari-menu.png)|![Menu Page - Chrome - Desktop](assets/media/browser-chrome-menu.png)|![Menu Page - Firefox - Desktop](assets/media/browser-firefox-menu.png)|
+    |![Contact Page - Safari - Desktop](assets/media/browser-safari-contact.png)|![Contact Page - Chrome - Desktop](assets/media/browser-chrome-contact.png)|![Contact Page - Firefox - Desktop](assets/media/browser-firefox-contact.png)|
+    |![About Page - Safari - Desktop](assets/media/browser-safari-about.png)|![About Page - Chrome - Desktop](assets/media/browser-chrome-about.png)|![About Page - Firefox - Desktop](assets/media/browser-firefox-about.png)|
 
-### Tablet
-|Safari - Version 15.6.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0|
-| ------------- | ------------- |------------- |
-|![Index Page - Safari - Tablet](assets/media/browser-safari-tablet-index.png)|![Index Page - Chrome - Tablet](assets/media/browser-chrome-tablet-index.png)|![Index Page - Firefox - Tablet](assets/media/browser-firefox-tablet-index.png)|
-|![Menu Page - Safari - Tablet](assets/media/browser-safari-tablet-menu.png)|![Menu Page - Chrome - Tablet](assets/media/browser-chrome-tablet-menu.png)|![Menu Page - Firefox - Tablet](assets/media/browser-firefox-tablet-menu.png)|
-|![Contact Page - Safari - Tablet](assets/media/browser-safari-tablet-contact.png)|![Contact Page - Chrome - Tablet](assets/media/browser-chrome-tablet-contact.png)|![Contact Page - Firefox - Tablet](assets/media/browser-firefox-tablet-contact.png)|
-|![About Page - Safari - Tablet](assets/media/browser-safari-tablet-about.png)|![About Page - Chrome - Tablet](assets/media/browser-chrome-tablet-about.png)|![About Page - Firefox - Tablet](assets/media/browser-firefox-tablet-about.png)|
+- #### Tablet
+    |Safari - Version 15.6.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0|
+    | ------------- | ------------- |------------- |
+    |![Index Page - Safari - Tablet](assets/media/browser-safari-tablet-index.png)|![Index Page - Chrome - Tablet](assets/media/browser-chrome-tablet-index.png)|![Index Page - Firefox - Tablet](assets/media/browser-firefox-tablet-index.png)|
+    |![Menu Page - Safari - Tablet](assets/media/browser-safari-tablet-menu.png)|![Menu Page - Chrome - Tablet](assets/media/browser-chrome-tablet-menu.png)|![Menu Page - Firefox - Tablet](assets/media/browser-firefox-tablet-menu.png)|
+    |![Contact Page - Safari - Tablet](assets/media/browser-safari-tablet-contact.png)|![Contact Page - Chrome - Tablet](assets/media/browser-chrome-tablet-contact.png)|![Contact Page - Firefox - Tablet](assets/media/browser-firefox-tablet-contact.png)|
+    |![About Page - Safari - Tablet](assets/media/browser-safari-tablet-about.png)|![About Page - Chrome - Tablet](assets/media/browser-chrome-tablet-about.png)|![About Page - Firefox - Tablet](assets/media/browser-firefox-tablet-about.png)|
 
-### Mobile
-|Safari - Version 17.1.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0 |
-| ------------- | ------------- |------------- |
-|![Index Page - Safari - Mobile](assets/media/browser-safari-mobile-index.png)|![Index Page - Chrome - Mobile](assets/media/browser-chrome-mobile-index.png)|![Index Page - Firefox - Mobile](assets/media/browser-firefox-mobile-index.png)| 
-|![Menu Page - Safari - Mobile](assets/media/browser-safari-mobile-menu.png)|![Menu Page - Chrome - Mobile](assets/media/browser-chrome-mobile-menu.png)|![Menu Page - Firefox - Mobile](assets/media/browser-firefox-mobile-menu.png)|
-|![Contact Page - Safari - Mobile](assets/media/browser-safari-mobile-contact.png)|![Contact Page - Chrome - Mobile](assets/media/browser-chrome-mobile-contact.png)|![Contact Page - Firefox - Mobile](assets/media/browser-firefox-mobile-contact.png)|
-|![About Page - Safari - Mobile](assets/media/browser-safari-mobile-about.png)|![About Page - Chrome - Mobile](assets/media/browser-chrome-mobile-about.png)|![About Page - Firefox - Mobile](assets/media/browser-firefox-mobile-about.png)|
+- #### Mobile
+    |Safari - Version 17.1.1|Chrome - Version 119.0.6045.194|Firefox - Version 120.1.0 |
+    | ------------- | ------------- |------------- |
+    |![Index Page - Safari - Mobile](assets/media/browser-safari-mobile-index.png)|![Index Page - Chrome - Mobile](assets/media/browser-chrome-mobile-index.png)|![Index Page - Firefox - Mobile](assets/media/browser-firefox-mobile-index.png)| 
+    |![Menu Page - Safari - Mobile](assets/media/browser-safari-mobile-menu.png)|![Menu Page - Chrome - Mobile](assets/media/browser-chrome-mobile-menu.png)|![Menu Page - Firefox - Mobile](assets/media/browser-firefox-mobile-menu.png)|
+    |![Contact Page - Safari - Mobile](assets/media/browser-safari-mobile-contact.png)|![Contact Page - Chrome - Mobile](assets/media/browser-chrome-mobile-contact.png)|![Contact Page - Firefox - Mobile](assets/media/browser-firefox-mobile-contact.png)|
+    |![About Page - Safari - Mobile](assets/media/browser-safari-mobile-about.png)|![About Page - Chrome - Mobile](assets/media/browser-chrome-mobile-about.png)|![About Page - Firefox - Mobile](assets/media/browser-firefox-mobile-about.png)|
 
-- ### Bugs
-    - Background video not playing on safari
+### Bugs
+  - Background video not playing on safari
     ![Index Page - Tablet](assets/media/browser-safari-tablet-index.png)
-    - Card overlay not working on safari
-    - Google maps not being clickable.
+  - Card overlay not working on safari
+  - Google maps not being clickable.
         
-        ![Fitzgerald's pin on Google Maps](assets/media/feat-google-maps.PNG)
+    ![Fitzgerald's pin on Google Maps](assets/media/feat-google-maps.PNG)
     
-        From:
-        ```ruby
-            #contact iframe {
-                z-index: -999;
-            }
-        ```
-        To:
-        ```ruby
-            #contact iframe {
-                z-index: 2;
-            }
-        ```
-        Solved the issue by bringing the iframe element in front of the margin from the contact form.
+    From:
+    ```ruby
+        #contact iframe {
+            z-index: -999;
+        }
+    ```
+    To:
+    ```ruby
+        #contact iframe {
+            z-index: 2;
+        }
+    ```
+    Solved the issue by bringing the iframe element in front of the margin from the contact form.
 
-- ### UI Improvements
-    - Extra space between navbar and form in the contact page on mobile devices.
-        - ![Contact page - Mobile](assets/media/browser-safari-mobile-contact.png)
-        - ![Alt text](assets/media/feat-about-fix-margin.png)
-    - Make landing page more intuitive
-        TODO
-        - ![Index Page - Tablet](assets/media/browser-firefox-tablet-index.png)
-    - Add Youtube clip in the about section
-        - ![Alt text](assets/media/feat-about-youtube.png)
-    - Add address in the contact section
-        - ![Contact Us Page - Desktop](assets/media/browser-safari-contact.png)
-        TODO
-    - Open social links in another tab
+### UI Improvements
+- Extra space between navbar and form in the contact page on mobile devices.
+    - ![Contact page - Mobile](assets/media/browser-safari-mobile-contact.png)
+    - ![Alt text](assets/media/feat-about-fix-margin.png)
+- Make landing page more intuitive
+    TODO
+    - ![Index Page - Tablet](assets/media/browser-firefox-tablet-index.png)
+- Add Youtube clip in the about section
+    - ![Alt text](assets/media/feat-about-youtube.png)
+- Add address in the contact section
+    - ![Contact Us Page - Desktop](assets/media/browser-safari-contact.png)
+    TODO
+- Open social links in another tab
 
-- ### Future Improvements
-    - Search function
-    - Feedback and Review
-    - Social sharing
+### Future Improvements
+- Search function
+- Feedback and Review
+- Social sharing
 
 ## Deployment
 
