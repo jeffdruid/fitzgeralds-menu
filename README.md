@@ -208,9 +208,10 @@ The manual testing conducted on the page includes the following aspects:
     |![About Page - Safari - Mobile](assets/media/browser-safari-mobile-about.png)|![About Page - Chrome - Mobile](assets/media/browser-chrome-mobile-about.png)|![About Page - Firefox - Mobile](assets/media/browser-firefox-mobile-about.png)|
 
 ### Bugs
-  - Background video not playing on safari
+  - Background video not playing on safari.
     ![Index Page - Tablet](assets/media/browser-safari-tablet-index.png)
-  - Card overlay not working on safari
+
+  - Card overlay not working properly on tablet when using safari version 15.6.1. User has to press and hold in order to display the overlay.
   
   - Google maps not being clickable.
         
