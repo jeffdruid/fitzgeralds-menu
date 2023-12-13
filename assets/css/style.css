@@ -351,6 +351,18 @@ textarea::placeholder {
     color: hsla(0, 0%, 12%);
 }
 
+.address-box {
+    color: white;
+    background-color: hsla(0, 0%, 20%, 0.99);
+    padding: .5rem 1.6rem;
+    font-size: .5rem;
+    line-height: .85rem;
+    position: absolute;
+    bottom: 4.75rem;
+    left: .6rem;
+    z-index: 3;
+}
+
 #contact iframe {
     position: absolute;
     bottom: 3.25rem;
@@ -451,6 +463,10 @@ textarea::placeholder {
 
     #contact-form {
         max-width: 600px;
+    }
+
+    .address-box {
+        bottom: 5.75rem;
     }
 }
 
