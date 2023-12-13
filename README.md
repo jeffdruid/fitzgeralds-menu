@@ -181,7 +181,6 @@ The manual testing conducted on the page includes the following aspects:
     - Prevents user to submit a form without a message.
     ![Form Message](assets/media/feat-form-message-required.PNG)
 
-
 - #### Desktop
     |Safari - Version 16.6|Chrome - Version 120.0.6099.71|Firefox - Version 120.0.1|
     | ------------- | ------------- |------------- |
