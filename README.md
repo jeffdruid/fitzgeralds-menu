@@ -78,6 +78,7 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 - ### Index
 
 ![Menu Hero](assets/media/feat-menu-hero.PNG)
+
 *Clicking on the "MENU" heading navigates the user to the meu.html page. Background video starts playing once the page loads, it is set to autoplay, mute and loop.*
 
 - ### Menu
