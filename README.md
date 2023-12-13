@@ -81,55 +81,33 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 *Clicking on the "MENU" heading navigates the user to the meu.html page. Background video starts playing once the page loads, it is set to autoplay, mute and loop.*
 
 - ### Menu
-
-    - Display various drinks available at Fitzgerald's bar.
-    ![Menu page](assets/media/feat-menu-page.png)
-
-    - Each card have an image of the drinks with name, alcohol percentage and price.
-    ![Gallery](assets/media/feat-gallery.PNG) 
-
-    - Cards have overlays providing additional details upon hover/clicked (mobile)
-    ![Overlay](assets/media/feat-overlay.PNG)
-
-    - Contains links to social media platforms
-    ![Footer](assets/media/feat-footer.PNG)
+    |||
+    |-|-|
+    |Display various drinks available at Fitzgerald's bar.|![Menu page](assets/media/feat-menu-page.png)|
+    |Each card have an image of the drinks with name, alcohol percentage and price.|![Gallery](assets/media/feat-gallery.PNG)| 
+    |Cards have overlays providing additional details upon hover/clicked (mobile).|![Overlay](assets/media/feat-overlay.PNG)|
+    |Contains links to social media platforms.|![Footer](assets/media/feat-footer.PNG)|
 
 - ### Navbar
-
-    - Provides site's title and navigation links for the menu, about and contact pages.
-    ![Navbar on Mobile](assets/media/feat-navbar-mobile.PNG) 
-
-    - Menu active, showing the current page the user is on.
-
-        ![Menu Active](assets/media/feat-menu-active.png)
-
-    - Menu icon, displayed on mobile devices.
-    
-        ![Menu Icon](assets/media/feat-nav-toggle.PNG)
+    |||
+    |-|-|
+    |Provides site's title and navigation links for the menu, about and contact pages.|![Navbar on Mobile](assets/media/feat-navbar-mobile.PNG)|
+    |Menu active, showing the current page the user is on.|![Menu Active](assets/media/feat-menu-active.png)|
+    |Menu icon, displayed on mobile devices.|![Menu Icon](assets/media/feat-nav-toggle.PNG)|
 
 - ### About
-    - About active, showing the current page the user is on.
-        
-        ![About Active](assets/media/feat-about-active.png)
-
-    - Contains information about the bar.
-        
-        ![About Page](assets/media/feat-about-page.PNG)
+    |||
+    |-|-|
+    |About active, showing the current page the user is on.|![About Active](assets/media/feat-about-active.png)|
+    |Contains information about the bar.|![About Page](assets/media/feat-about-page.PNG)|
 
 - ### Contact
-    - Contact active, showing the current page the user is on.
-        
-        ![Contact Active](assets/media/feat-contact-active.PNG)
-
-    - Contains a contact form for users to send messages.
-        ![Contact Page](assets/media/feat-contact-page.png)
-
-    - Contains a form where users are able to enter their name, email and message, allowing them to contact the bar.
-    ![Form](assets/media/feat-form.PNG)
-
-    - Displays location of the bar using embedded map.
-        
-        ![Google maps](assets/media/feat-google-maps.PNG)
+    |||
+    |-|-|
+    |Contact active, showing the current page the user is on.|![Contact Active](assets/media/feat-contact-active.PNG)|
+    |Contains a contact form for users to send messages.|![Contact Page](assets/media/feat-contact-page.png)|
+    |Contains a form where users are able to enter their name, email and message, allowing them to contact the bar.|![Form](assets/media/feat-form.PNG)|
+    |Displays location of the bar using embedded map.|![Google maps](assets/media/feat-google-maps.PNG)|
 
 ## Testing
 
