@@ -242,9 +242,10 @@ The manual testing conducted on the page includes the following aspects:
 - Added a Youtube clip within the about section to offer additional multimedia content and engage users effectively.
     - ![Alt text](assets/media/feat-about-youtube.png)
 
-- Add address in the contact section
-    - ![Contact Us Page - Desktop](assets/media/browser-safari-contact.png)
-    TODO
+- Added an address box within the contact section, providing a detailed address including the postal code. 
+    |Before|After|
+    |---|---|
+    |<img src="assets/media/browser-safari-contact.png" alt="Contact Us Page - Desktop" width="70%">|<img src="assets/media/feat-contact-fix-address.png" alt="Address Box - Feature" width="800px">|
 
 - Open social links in another tab
     - Added `target="_blank"` to all social links. This ensures that when the user click on these links, they open in a separated tab.
