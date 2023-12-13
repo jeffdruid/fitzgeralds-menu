@@ -11,13 +11,13 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
 1. [Introduction](#introduction)
 1. [Technologies Used](#technologies-used)
 1. [User Stories](#user-stories)
+1. [Wireframe](#wireframe)
 1. [Features](#features)
     - [Index](#index)
     - [Menu](#menu)
     - [Navbar](#navbar)
     - [About](#about)
     - [Contact](#contact)
-1. [Wireframe](#wireframe)
 1. [Testing](#testing)
     - [Validator Testing](#validator-testing)
         - [HTML](#html)
@@ -35,6 +35,7 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
         - [Mobile](#mobile)
     - [Bugs](#bugs)
     - [UI Improvements](#ui-improvements)
+    - [Future Improvements](#future-improvements)
 1. [Deployment](#Deployment)
     - [Cloning & Forking](#cloning--forking)
     - [Local Deployment](#local-deployment)
@@ -227,7 +228,7 @@ The manual testing conducted on the page includes the following aspects:
             z-index: 2;
         }
     ```
-    Fixed the issue by adjusting the `z-index` property for the map's `<iframe>`. Changing the `z-index` from `-999` to `2` brought the map to the front, allowing users to interact with it. This prevents the map to be hidden behind other elements on the page, in this case margins or oother content from the contact form.
+    Fixed the issue by adjusting the `z-index` property for the map's `<iframe>`. Changing the `z-index` from `-999` to `2` brought the map to the front, allowing users to interact with it. This prevents the map to be hidden behind other elements on the page, in this case margins or other content from the contact form.
 
 ### UI Improvements
 - Added extra space between the navbar and the form on the mobile view of the contact page.
