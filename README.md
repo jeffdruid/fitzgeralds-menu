@@ -228,16 +228,17 @@ The manual testing conducted on the page includes the following aspects:
     Fixed the issue by adjusting the `z-index` property for the map's `<iframe>`. Changing the `z-index` from `-999` to `2` brought the map to the front, allowing users to interact with it. This prevents the map to be hidden behind other elements on the page, in this case margins or oother content from the contact form.
 
 ### UI Improvements
-- Extra space between navbar and form in the contact page on mobile devices.
+- Added extra space between the navbar and the form on the mobile view of the contact page.
     |Before|After|
     |---|---|  
-    |![Contact page - Mobile](assets/media/browser-safari-mobile-contact.png)|![Alt text](assets/media/feat-about-fix-margin.png)|
+    |<img src="assets/media/browser-safari-mobile-contact.png" alt="Contact page - Mobile" height="600px">|![Alt text](assets/media/feat-about-fix-margin.png)|
 
-- Make landing page more intuitive
-    TODO
-    - ![Index Page - Tablet](assets/media/browser-firefox-tablet-index.png)
+- Enhanced the landing page for better user intuition.
+    |Before|After|
+    |---|---|  
+    |<img src="assets/media/browser-firefox-tablet-index.png" alt="Index Page - Tablet" height="500px">|![Alt text](assets/media/feat-index-fix-menu.png)|
 
-- Add Youtube clip in the about section
+- Added a Youtube clip within the about section to offer additional multimedia content and engage users effectively.
     - ![Alt text](assets/media/feat-about-youtube.png)
 
 - Add address in the contact section
