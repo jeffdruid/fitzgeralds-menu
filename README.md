@@ -210,6 +210,7 @@ The manual testing conducted on the page includes the following aspects:
   - Background video not playing on safari
     ![Index Page - Tablet](assets/media/browser-safari-tablet-index.png)
   - Card overlay not working on safari
+  
   - Google maps not being clickable.
         
     ![Fitzgerald's pin on Google Maps](assets/media/feat-google-maps.PNG)
@@ -250,6 +251,8 @@ The manual testing conducted on the page includes the following aspects:
 - Open social links in another tab
     - Added `target="_blank"` to all social links. This ensures that when the user click on these links, they open in a separated tab.
     ![Alt text](assets/media/feat-footer-fix-links.png)
+
+        - NOTE: Once the project is approved by the client, the social media links for Fitzgerald's Bar will be linked to the digital menu.
 
 ### Future Improvements
 - Search function
