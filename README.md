@@ -56,16 +56,15 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
 - CSS3
 
 ## User Stories
-TODO
-|Story No.|Story|  |
+|Story No.|Story Description|Acceptance Criteria|
 | ----- | ----- | -----|
-|1| As a customer, I want to be able to access Fitzgerald's drinks menu digitally via QR code.| I know I am done when the menu page is displayed|
-|2| As a customer, I want to be able to navigate between different sections of the digital menu.| I know I am done when...|
-|3| As a customer, I want to be able to see available drinks. |I know I am done when...|
-|4| As a customer, I want to be able to see additional information from available drinks. |I know I am done when hovering or clicking each drink.|
-|5| As a customer, I want to be able to find links to social media platforms. |I know I am done when...|
-|6| As a customer, I want to be able to find more information about the bar. |I know I am done when I click on about page in the navigation section.|
-|7| As a customer, I want to be able to contact the bar. |I know I am done when I send the contact form with name, email and message.|
+|1| As a customer, I want to be able to access Fitzgerald's drinks menu digitally via QR code.| I know I am done when the menu page is displayed after scanning the QR code.|
+|2| As a customer, I want to be able to navigate between different sections of the digital menu.| I know I am done when the navigation links for menu sections (Menu, About, Contact) are clickable and take me to the respective sections.|
+|3| As a customer, I want to be able to see the list of available drinks. |I know I am done when the menu page displays the list of available drinks.|
+|4| As a customer, I want to be able to view additional information about each available drink. |I know I am done when I can hover or click each drink to reveal more information.|
+|5| As a customer, I want to be able to find links to social media platforms. |I know I am done when I see visible and clickable icons leading to social media profiles.|
+|6| As a customer, I want to be able to access more information about the bar. |I know I am done when I click on "About" page in the navigation section and the page displays details about the bar's history, ambiance and features.|
+|7| As a customer, I want to be able to contact the bar. |I know I am done when I complete and submit the contact form with the required fields (name, email and message).|
 
 ## Wireframe
 ![Wireframe - All pages](assets/media/Wireframe%20P1.png)
