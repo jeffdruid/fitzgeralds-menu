@@ -41,6 +41,10 @@ body {
     animation-duration: 5s;
 }
 
+.click-enter {
+    display: none;
+}
+
 .hero {
     width: 100%;
     height: 100vh;
@@ -385,6 +389,15 @@ textarea::placeholder {
 
 /* Tablets or larger (768px and up) */
 @media screen and (min-width: 768px) {
+
+    /* Hero Section */
+    .tap-enter {
+        display: none;
+    }
+
+    .click-enter {
+        display: inline;
+    }
 
     /* Navbar Section */
     #navbar>header>h1 {
