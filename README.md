@@ -307,6 +307,8 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
     - Menu gallery.
 - [Formspree - Form Submission](https://formspree.io/)
     - Form submission.
+- [Animate.css](https://github.com/animate-css/animate.css/blob/main/source/attention_seekers/flash.css)
+    - Flash animation Menu page.
 
 ### Videos
 - [Cover Girls](https://www.youtube.com/watch?v=89UkgFiritU&t=1s)
