@@ -38,7 +38,7 @@ body {
     background-color: rgb(0, 0, 0);
     text-transform: uppercase;
     animation-name: flash;
-    animation-duration: 5s;
+    animation-duration: 0s;
 }
 
 .click-enter {
@@ -76,7 +76,7 @@ body {
     background-image: url(../images/bg-backup.webp);
     background-size: contain;
     animation-name: slideInRight;
-    animation-duration: 2s;
+    animation-duration: 0s;
 }
 
 .hero-heading {
