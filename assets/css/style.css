@@ -65,10 +65,6 @@ body {
 }
 
 .hero::after {
-    background-image: url(../images/bg-backup.webp);
-    background-size: contain;
-    animation-name: slideInRight;
-    animation-duration: 5s;
     content: '';
     position: absolute;
     top: 0;
@@ -549,5 +545,18 @@ textarea::placeholder {
 
     to {
         transform: translate3d(0, 0, 0);
+    }
+}
+
+@supports not (aspect-ratio: 1/1) {
+    body {
+        background-image: url(../images/bg-backup.webp);
+        background-size: contain;
+        animation-name: slideInRight;
+        animation-duration: 5s;
+    }
+
+    .hero video {
+        display: none;
     }
 }
