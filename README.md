@@ -208,11 +208,15 @@ The manual testing conducted on the page includes the following aspects:
     |![About Page - Safari - Mobile](assets/media/browser-safari-mobile-about.png)|![About Page - Chrome - Mobile](assets/media/browser-chrome-mobile-about.png)|![About Page - Firefox - Mobile](assets/media/browser-firefox-mobile-about.png)|
 
 ### Bugs
-  - Background video not playing on safari.
+TODO
+  - Background video not playing on safari desktop.
     ![Index Page - Tablet](assets/media/browser-safari-tablet-index.png)
-
+TODO
   - Card overlay not working properly on tablet when using safari version 15.6.1. User has to press and hold in order to display the overlay.
-  
+
+  - Background video not playing on safari Mobile and Tablet. solved by adding a back up image.
+  TODO
+
   - Google maps not being clickable.
         
     ![Fitzgerald's pin on Google Maps](assets/media/feat-google-maps.PNG)
@@ -255,6 +259,9 @@ The manual testing conducted on the page includes the following aspects:
     ![Alt text](assets/media/feat-footer-fix-links.png)
 
         - NOTE: Once the project is approved by the client, the social media links for Fitzgerald's Bar will be linked to the digital menu.
+
+- Fix empty space in the header section in the larger screens.
+![Alt text](assets/media/feat-menu-fix-header.png)
 
 ### Future Improvements
 - Search function
