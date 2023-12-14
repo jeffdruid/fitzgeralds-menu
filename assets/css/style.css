@@ -65,6 +65,10 @@ body {
 }
 
 .hero::after {
+    background-image: url(../images/bg-backup.webp);
+    background-size: contain;
+    animation-name: slideInRight;
+    animation-duration: 5s;
     content: '';
     position: absolute;
     top: 0;
@@ -522,7 +526,7 @@ textarea::placeholder {
     }
 }
 
-/* Animation */
+/* Animations */
 @keyframes flash {
 
     0%,
@@ -534,5 +538,16 @@ textarea::placeholder {
     25%,
     75% {
         opacity: 0.2;
+    }
+}
+
+@keyframes slideInRight {
+    from {
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+    }
+
+    to {
+        transform: translate3d(0, 0, 0);
     }
 }
