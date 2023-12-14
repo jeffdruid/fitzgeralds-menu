@@ -76,7 +76,7 @@ body {
     background-image: url(../images/bg-backup.webp);
     background-size: contain;
     animation-name: slideInRight;
-    animation-duration: 5s;
+    animation-duration: 2s;
 }
 
 .hero-heading {
@@ -542,12 +542,12 @@ textarea::placeholder {
 }
 
 @keyframes slideInRight {
-    from {
-        transform: translate3d(100%, 0, 0);
+    0% {
+        transform: translateX(100%);
         visibility: visible;
     }
 
-    to {
-        transform: translate3d(0, 0, 0);
+    100% {
+        transform: translateX(0);
     }
 }
