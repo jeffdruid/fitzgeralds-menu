@@ -28,24 +28,5 @@
           </div>
       </a>
     </section>
-    <script>
-      // Function to detect Safari browser
-      function isSafari() {
-          return /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
-      }
-
-      // Apply styles if the browser is Safari
-      if (isSafari()) {
-          document.addEventListener("DOMContentLoaded", function () {
-              var heroAfter = document.querySelector('.hero::after');
-              var video = document.querySelector('.hero video');
-
-              if (heroAfter && video) {
-                  heroAfter.style.backgroundImage = 'url("assets/images/bg-backup.webp")';
-                  video.style.display = 'none';
-              }
-          });
-      }
-  </script>
   </body>
 </html>
