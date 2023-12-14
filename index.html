@@ -28,15 +28,6 @@
           </div>
       </a>
     </section>
-    <script>
-      // Check if it's Safari
-      if (/^((?!chrome|android).)*safari/i.test(navigator.userAgent)) {
-          // Detected Safari, hide the video and display the background image using ::after
-          document.querySelector('.hero video').style.display = 'none';
-          document.querySelector('.hero::after').style.display = 'block';
-          document.querySelector('.hero::after').style.backgroundImage = "url('assets/images/bg-backup.webp')";
-          document.querySelector('.hero::after').style.backgroundSize = "cover"; // You can add additional styles here
-      }
-  </script>
+    
   </body>
 </html>

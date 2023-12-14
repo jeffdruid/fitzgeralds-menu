@@ -73,7 +73,7 @@ body {
     height: 100%;
     background-color: rgba(0, 0, 0, .1);
     z-index: -1;
-    background-image: none;
+    background-image: url(../images/bg-backup.webp);
     background-size: contain;
     animation-name: slideInRight;
     animation-duration: 5s;
