@@ -18,37 +18,15 @@
 
   <body style="padding: 0;">
     <section>
-        <!-- <a href="menu.html"> -->
-          <h1 class="hero-heading">MENU</h1>
+      <a href="menu.html">
+        <h1 class="hero-heading">MENU</h1>
           <p class="enter-menu"> <span class="tap-enter">Tap</span> <span class="click-enter">Click</span> to enter</p>
-            <div class="hero">
-                <video controls autoplay muted loop playsinline disablePictureInPicture="true" id="myVideo">
-                    <!-- <source src="assets/images/taps.webm" type="video/webm"> -->
-                    <source src="assets/images/taps.mp4" type="video/mp4">
-                </video>
-                <div class="safari-play-button">Play Video</div>
-            </div>
-        <!-- </a> -->
+          <div class="hero">
+            <video controls autoplay muted loop playsinline disablePictureInPicture="true" id="myVideo">
+              <source src="assets/images/taps.webm" type="video/webm">
+            </video>        
+          </div>
+      </a>
     </section>
-    <script>
-            // Check if the browser is Safari
-      const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
-
-      // Function to handle click event on the play button
-      function handlePlay() {
-          const video = document.getElementById('myVideo');
-          video.play(); // Start playing the video
-          // Hide the play button once video starts playing
-          const playButton = document.querySelector('.safari-play-button');
-          playButton.style.display = 'none';
-      }
-
-      // Show the play button only if the browser is Safari
-      if (isSafari) {
-          const playButton = document.querySelector('.safari-play-button');
-          playButton.style.display = 'block';
-          playButton.addEventListener('click', handlePlay);
-      }
-    </script>
   </body>
 </html>
