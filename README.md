@@ -316,7 +316,7 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 - [Formspree - Form Submission](https://formspree.io/)
     - Form submission.
 - [Animate.css](https://github.com/animate-css/animate.css/blob/main/source/attention_seekers/flash.css)
-    - Flash animation Menu page.
+    - Flash / SlideInRight animation Menu page.
 
 ### Videos
 - [Cover Girls](https://www.youtube.com/watch?v=89UkgFiritU&t=1s)
@@ -334,6 +334,7 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 - [Pexels - S. von Hoerst](https://images.pexels.com/photos/9550788/pexels-photo-9550788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 - [Pexels - ТАРКОС ](https://images.pexels.com/photos/7220272/pexels-photo-7220272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 - [Pexels - Brett Jordan ](https://images.pexels.com/photos/11930130/pexels-photo-11930130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+- [Pexels - rovenimages.com](https://www.pexels.com/photo/yellow-bokeh-photo-949587/)
 
 ### Icons
 
