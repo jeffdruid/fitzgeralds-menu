@@ -29,6 +29,20 @@ body {
 }
 
 /* Hero Section */
+.safari-play-button {
+    display: none;
+    /* Style the play button as needed */
+    /* Example styles */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    background-color: #a83838;
+    color: white;
+    cursor: pointer;
+}
+
 .enter-menu {
     position: absolute;
     top: 50%;
