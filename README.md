@@ -208,14 +208,16 @@ The manual testing conducted on the page includes the following aspects:
     |![About Page - Safari - Mobile](assets/media/browser-safari-mobile-about.png)|![About Page - Chrome - Mobile](assets/media/browser-chrome-mobile-about.png)|![About Page - Firefox - Mobile](assets/media/browser-firefox-mobile-about.png)|
 
 ### Bugs
+
 TODO
   - Background video not playing on safari desktop.
     ![Index Page - Tablet](assets/media/browser-safari-tablet-index.png)
 TODO
   - Card overlay not working properly on tablet when using safari version 15.6.1. User has to press and hold in order to display the overlay.
 
+#### Fixed bugs
   - Background video not playing on safari Mobile and Tablet. solved by adding a back up image.
-  TODO
+  ![Index Page - Backup background image](assets/media/feat-index-fix-menu-backup)
 
   - Google maps not being clickable.
         
@@ -322,8 +324,10 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
     - Menu gallery.
 - [Formspree - Form Submission](https://formspree.io/)
     - Form submission.
-- [Animate.css](https://github.com/animate-css/animate.css/blob/main/source/attention_seekers/flash.css)
-    - Flash / SlideInRight animation Menu page.
+- [Animate.css - Flash](https://github.com/animate-css/animate.css/blob/main/source/attention_seekers/flash.css)
+    - Flash animation Menu page.
+- [Animate.css - SlideInRight](https://github.com/animate-css/animate.css/blob/main/source/sliding_entrances/slideInRight.css)
+    - SlideInRight animation Menu page.
 
 ### Videos
 - [Cover Girls](https://www.youtube.com/watch?v=89UkgFiritU&t=1s)
