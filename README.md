@@ -112,11 +112,17 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
     |Contains a form where users are able to enter their name, email and message, allowing them to contact the bar.|![Form](assets/media/feat-form.PNG)|
     |Displays location of the bar using embedded map.|![Google maps](assets/media/feat-google-maps.PNG)|
 
+- ###  FormSpree
+TODO
+![Alt text](assets/media/feat-contact-formspree-email.png)
+![Alt text](assets/media/feat-contact-formspree-robot.png)
+![Alt text](assets/media/feat-contact-formspree-thanks.png)
+
 ## Testing
 
 ### Validator Testing
 
-- #### HTML
+- #### HTMLs
     - [W3C Validator - Index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html)
     ![W3C Results - Index](assets/media/test-index.png)
     - [W3C Validator - Menu](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html)
