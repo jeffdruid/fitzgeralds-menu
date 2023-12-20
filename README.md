@@ -227,7 +227,7 @@ The manual testing conducted on the page includes the following aspects:
 
 #### Fixed bugs
   - Background video not playing on safari Mobile and Tablet. solved by adding a back up image.
-  <img src="assets/media/feat-index-fix-menu-backup" alt="Index Page - Backup background image" width="50%">
+    <img src="assets/media/feat-index-fix-menu-backup" alt="Index Page - Backup background image" width="50%">
 
   - Google maps not being clickable.
         
@@ -373,3 +373,4 @@ You can access the live link here : [Fitzgerald's Menu](https://jeffdruid.github
 - [Flipsnack - Menu design ideas: 10 mouth-watering menu fonts](https://blog.flipsnack.com/menu-design-ideas-10-menu-fonts/)
 - [NicePage - Black/White Theme](https://nicepage.com/s/79786/black-and-white-colors-of-art-css-template)
 - [Dlhamilton - README Reference](https://github.com/dlhamilton/LPSB-Learn-GCSE-CS)
+- [Fitzgerald's Bar - About Page](https://fitzgeraldsbar.ie/)
