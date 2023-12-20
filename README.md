@@ -224,22 +224,26 @@ The manual testing conducted on the page includes the following aspects:
         
     ![Fitzgerald's pin on Google Maps](assets/media/feat-google-maps.PNG)
     
-    From:
-    ```ruby
-        #contact iframe {
-            z-index: -999;
-        }
-    ```
-    To:
-    ```ruby
-        #contact iframe {
-            z-index: 2;
-        }
-    ```
-    Fixed the issue by adjusting the `z-index` property for the map's `<iframe>`. Changing the `z-index` from `-999` to `2` brought the map to the front, allowing users to interact with it. This prevents the map to be hidden behind other elements on the page, in this case margins or other content from the contact form.
+    - From:
+        ```ruby
+            #contact iframe {
+                z-index: -999;
+            }
+        ```
+    - To:
+        ```ruby
+            #contact iframe {
+                z-index: 2;
+            }
+        ```
+    - Fixed the issue by adjusting the `z-index` property for the map's `<iframe>`. Changing the `z-index` from `-999` to `2` brought the map to the front, allowing users to interact with it. This prevents the map to be hidden behind other elements on the page, in this case margins or other content from the contact form.
 
-- User not being able to click in the input name. as ul element is over the form.
-    ![ul Element - Bug](assets/media/feat-contact-fix-input.png)
+- User not being able to click in the input name on mobile as ul element is overlapping the form.
+    ![ul Element - Bug](assets/media/feat-contact-fix-input.png).
+    - Fixed the issue by:
+        - `.navbar ul {display: none;}`
+        - `#nav-toggle:checked~nav ul {display: block;)`
+    - Ensures that by default, the `navbar ul` will be hidden and only display block when `nav-toggle` is checked.
 
 ### UI Improvements
 - Added extra space between the navbar and the form on the mobile view of the contact page.
