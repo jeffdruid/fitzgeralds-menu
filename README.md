@@ -2,7 +2,7 @@
 
 This project aims to create a digital menu for Fitzgerald's Bar, being accessible via a QR code.
 
-![Main Pages](assets/media/main-hero.PNG)
+[<img src="assets/media/main-hero.PNG" alt="Main Pages">](https://jeffdruid.github.io/fitzgeralds-menu/index.html)
 
 <img src="assets/media/qr-code.png" alt="QR code" width="150" height="150">
 
@@ -226,7 +226,7 @@ The manual testing conducted on the page includes the following aspects:
 
 #### Fixed bugs
   - Background video not playing on safari Mobile and Tablet. solved by adding a back up image.
-  ![Index Page - Backup background image](assets/media/feat-index-fix-menu-backup)
+  <img src="assets/media/feat-index-fix-menu-backup" alt="Index Page - Backup background image" width="50%">
 
   - Google maps not being clickable.
         
