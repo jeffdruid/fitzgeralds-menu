@@ -113,16 +113,18 @@ Fitzgerald's Bar currently lacks a digital drinks menu, causing inconvenience fo
     |Displays location of the bar using embedded map.|![Google maps](assets/media/feat-google-maps.PNG)|
 
 - ###  FormSpree
-TODO
-![Alt text](assets/media/feat-contact-formspree-email.png)
-![Alt text](assets/media/feat-contact-formspree-robot.png)
-![Alt text](assets/media/feat-contact-formspree-thanks.png)
+    FormSpree is a form backend, API, and email service for HTML & JavaScript forms. 
+    |||
+    |-|-|
+    |Captcha verification to ensure that the form is submitted by a human user rather tha an automated script or bot.| ![Captcha Page](assets/media/feat-contact-formspree-robot.png)|
+    |This pages shows that the form has been successfully submitted.|![Thanks Page](assets/media/feat-contact-formspree-thanks.png)|
+    |FormSpree will forward the form details to the designated email recipient, who receives an email containing the name, email and message upon successful form submission.|![Message Received - Email](assets/media/feat-contact-formspree-email.png)|
 
 ## Testing
 
 ### Validator Testing
 
-- #### HTMLs
+- #### HTML
     - [W3C Validator - Index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Findex.html)
     ![W3C Results - Index](assets/media/test-index.png)
     - [W3C Validator - Menu](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjeffdruid.github.io%2Ffitzgeralds-menu%2Fmenu.html)
@@ -178,7 +180,7 @@ The manual testing conducted on the page includes the following aspects:
 
  The manual testing confirms that the page operates smoothly across multiple browsers, adapts well to different devices, ensures accurate link navigation, and maintains clear readability for users interacting with the content.
 
-- #### Acceptance Test
+- #### Validation Test
     Verified that appropriate error messages prompt the user to fill the missing fields.
 
     - Prevents user to submit a form without name. 
