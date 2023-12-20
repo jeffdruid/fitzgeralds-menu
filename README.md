@@ -34,6 +34,7 @@ This project aims to create a digital menu for Fitzgerald's Bar, being accessibl
         - [Tablet](#tablet)
         - [Mobile](#mobile)
     - [Bugs](#bugs)
+        - [Fixed Bugs](#fixed-bugs)
     - [UI Improvements](#ui-improvements)
     - [Future Improvements](#future-improvements)
 1. [Deployment](#Deployment)
@@ -209,11 +210,11 @@ The manual testing conducted on the page includes the following aspects:
 
 ### Bugs
 
-TODO
-  - Background video not playing on safari desktop.
+  - The background video is not playing on Safari desktop browsers. Found difficult to implement a solution that works across various browsers and versions while accommodating Safari's specific behavior for the background video.
+    - Tried to display a video in the `.hero` div  with a fallback background image for safari using CSS.
     ![Index Page - Tablet](assets/media/browser-safari-tablet-index.png)
-TODO
-  - Card overlay not working properly on tablet when using safari version 15.6.1. User has to press and hold in order to display the overlay.
+
+  - The card overlay functionality doesn't work as intended on tablets using Safari 15.6.1. Users have to press and hold in order to display the overlay.
 
 #### Fixed bugs
   - Background video not playing on safari Mobile and Tablet. solved by adding a back up image.
@@ -241,12 +242,12 @@ TODO
 - Added extra space between the navbar and the form on the mobile view of the contact page.
     |Before|After|
     |---|---|  
-    |<img src="assets/media/browser-safari-mobile-contact.png" alt="Contact page - Mobile" height="600px">|![Alt text](assets/media/feat-about-fix-margin.png)|
+    |<img src="assets/media/browser-safari-mobile-contact.png" alt="Contact page - Mobile" width="50%">|![Alt text](assets/media/feat-about-fix-margin.png)|
 
 - Enhanced the landing page for better user intuition.
     |Before|After|
     |---|---|  
-    |<img src="assets/media/browser-firefox-tablet-index.png" alt="Index Page - Tablet" height="500px">|![Alt text](assets/media/feat-index-fix-menu.png)|
+    |<img src="assets/media/browser-firefox-tablet-index.png" alt="Index Page - Tablet" width="50%">|![Alt text](assets/media/feat-index-fix-menu.png)|
 
 - Added a Youtube clip within the about section to offer additional multimedia content and engage users effectively.
     - ![Alt text](assets/media/feat-about-youtube.png)
@@ -256,7 +257,7 @@ TODO
     |---|---|
     |<img src="assets/media/browser-safari-contact.png" alt="Contact Us Page - Desktop" width="70%">|<img src="assets/media/feat-contact-fix-address.png" alt="Address Box - Feature" width="800px">|
 
-- Open social links in another tab
+- Open social links in another tab, keeping users on the website while allowing them to access social media content.
     - Added `target="_blank"` to all social links. This ensures that when the user click on these links, they open in a separated tab.
     ![Alt text](assets/media/feat-footer-fix-links.png)
 
