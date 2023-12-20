@@ -238,6 +238,9 @@ The manual testing conducted on the page includes the following aspects:
     ```
     Fixed the issue by adjusting the `z-index` property for the map's `<iframe>`. Changing the `z-index` from `-999` to `2` brought the map to the front, allowing users to interact with it. This prevents the map to be hidden behind other elements on the page, in this case margins or other content from the contact form.
 
+- User not being able to click in the input name. as ul element is over the form.
+    ![ul Element - Bug](assets/media/feat-contact-fix-input.png)
+
 ### UI Improvements
 - Added extra space between the navbar and the form on the mobile view of the contact page.
     |Before|After|
