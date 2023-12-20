@@ -242,15 +242,15 @@ The manual testing conducted on the page includes the following aspects:
 - Added extra space between the navbar and the form on the mobile view of the contact page.
     |Before|After|
     |---|---|  
-    |<img src="assets/media/browser-safari-mobile-contact.png" alt="Contact page - Mobile" width="50%">|![Alt text](assets/media/feat-about-fix-margin.png)|
+    |<img src="assets/media/browser-safari-mobile-contact.png" alt="Contact page - Mobile" width="50%">|![Contact Page - Margin fix](assets/media/feat-about-fix-margin.png)|
 
 - Enhanced the landing page for better user intuition.
     |Before|After|
     |---|---|  
-    |<img src="assets/media/browser-firefox-tablet-index.png" alt="Index Page - Tablet" width="50%">|![Alt text](assets/media/feat-index-fix-menu.png)|
+    |<img src="assets/media/browser-firefox-tablet-index.png" alt="Index Page - Tablet" width="50%">|![Index Page - Fix](assets/media/feat-index-fix-menu.png)|
 
 - Added a Youtube clip within the about section to offer additional multimedia content and engage users effectively.
-    - ![Alt text](assets/media/feat-about-youtube.png)
+    - ![Embedded Youtube Video](assets/media/feat-about-youtube.png)
 
 - Added an address box within the contact section, providing a detailed address including the postal code. 
     |Before|After|
@@ -259,12 +259,12 @@ The manual testing conducted on the page includes the following aspects:
 
 - Open social links in another tab, keeping users on the website while allowing them to access social media content.
     - Added `target="_blank"` to all social links. This ensures that when the user click on these links, they open in a separated tab.
-    ![Alt text](assets/media/feat-footer-fix-links.png)
+    ![Footer Links - Fix](assets/media/feat-footer-fix-links.png)
 
         - NOTE: Once the project is approved by the client, the social media links for Fitzgerald's Bar will be linked to the digital menu.
 
 - Fix empty space in the header section in the larger screens.
-![Alt text](assets/media/feat-menu-fix-header.png)
+![Header Section - Fix](assets/media/feat-menu-fix-header.png)
 
 ### Future Improvements
 - Search function
